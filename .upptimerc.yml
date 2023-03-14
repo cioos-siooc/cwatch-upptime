@@ -64,6 +64,12 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - ogsletcax
 
+  - name: St. Lawrence Global Observatory ERDDAP
+    url: https://erddap.ogsl.ca/erddap/index.html
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - ogsletcax
+
   - name: Cioos Pacific Wordpress
     url: https://cioospacific.ca
     maxResponseTime: 5000 # 5 seconds
