@@ -27,24 +27,45 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+      - sjbruce
+      - jeffcullis
+      - JaredMclellan
 
   - name: Cioos Atlantic CKAN
     url: https://catalogue.cioosatlantic.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+      - sjbruce
+      - jeffcullis
+      - JaredMclellan
+
+  - name: VITALITY CKAN
+    url: https://catalogue.registry.cioosatlantic.ca/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+      - sjbruce
+      - jeffcullis
+      - JaredMclellan
 
   - name: Cioos Atlantic CKAN Sitemap
     url: https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+      - sjbruce
+      - jeffcullis
+      - JaredMclellan
 
   - name: Cioos Atlantic ERDDAP
     url: https://cioosatlantic.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+      - sjbruce
+      - jeffcullis
+      - JaredMclellan
 
   - name: St. Lawrence Global Observatory Wordpress
     url: https://ogsl.ca/en/home-slgo/
