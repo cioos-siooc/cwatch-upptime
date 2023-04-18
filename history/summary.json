@@ -287,19 +287,19 @@
     "url": "https://erddap.ogsl.ca/erddap/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/erddap.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-erddap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 240,
-    "timeWeek": 241,
-    "timeMonth": 223,
-    "timeYear": 217,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 215,
+    "timeDay": 198,
+    "timeWeek": 227,
+    "timeMonth": 220,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-04-18": 1
+      "2023-04-18": 9
     }
   },
   {
