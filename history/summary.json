@@ -414,19 +414,19 @@
     "url": "https://catalogue.hakai.org/erddap/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "hakai-erddap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 306,
-    "timeWeek": 303,
-    "timeMonth": 279,
-    "timeYear": 270,
+    "time": 277,
+    "timeDay": 1046,
+    "timeWeek": 505,
+    "timeMonth": 341,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2023-04-26": 1
+      "2023-04-26": 9
     }
   },
   {
