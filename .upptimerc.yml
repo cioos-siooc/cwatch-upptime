@@ -28,7 +28,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
       - sjbruce
-      - jeffcullis
       - JaredMclellan
 
   - name: Cioos Atlantic CKAN
@@ -37,7 +36,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
       - sjbruce
-      - jeffcullis
       - JaredMclellan
 
   - name: VITALITY CKAN
@@ -46,7 +44,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
       - sjbruce
-      - jeffcullis
       - JaredMclellan
 
   - name: Cioos Atlantic CKAN Sitemap
@@ -55,7 +52,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
       - sjbruce
-      - jeffcullis
       - JaredMclellan
 
   - name: Cioos Atlantic ERDDAP
@@ -64,7 +60,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
       - sjbruce
-      - jeffcullis
       - JaredMclellan
 
   - name: St. Lawrence Global Observatory Wordpress
@@ -96,6 +91,20 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+
+  - name: Cioos Pacific Applied Data - Marine Heat Waves
+    url: https://cioospacific.ca/applied-data/marine-heat-monitor/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+      - steviewanders
+
+  - name: Cioos Pacific Applied Data - Marine Heat Waves iframe Source
+    url: https://hakaiinstitute.github.io/ssta_images/dist
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+      - steviewanders
 
   - name: Cioos Pacific CKAN
     url: https://catalogue.cioospacific.ca
