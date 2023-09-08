@@ -1,7 +1,7 @@
 url: https://data.cioospacific.ca/fluentd
-status: down
-code: 503
-responseTime: 75
-lastUpdated: 2023-09-08T17:10:18.889Z
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2023-09-08T17:18:25.174Z
 startTime: 2023-04-25T03:54:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
