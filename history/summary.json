@@ -520,7 +520,7 @@
     "uptime": "96.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.90%",
+    "uptimeMonth": "53.89%",
     "uptimeYear": "95.10%",
     "time": 1047,
     "timeDay": 375,
@@ -528,7 +528,7 @@
     "timeMonth": 1074,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2023-09-08": 1031,
+      "2023-09-08": 1039,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -603,7 +603,7 @@
     "uptime": "92.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.46%",
+    "uptimeMonth": "74.44%",
     "uptimeYear": "92.63%",
     "time": 3283,
     "timeDay": 6352,
@@ -611,7 +611,7 @@
     "timeMonth": 4775,
     "timeYear": 3283,
     "dailyMinutesDown": {
-      "2023-09-08": 1031,
+      "2023-09-08": 1039,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -689,19 +689,19 @@
     "url": "https://data.cioospacific.ca/fluentd",
     "icon": "https://icons.duckduckgo.com/ip3/data.cioospacific.ca.ico",
     "slug": "cioos-pacific-fluentd-log-exporter",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 53,
     "timeDay": 61,
-    "timeWeek": 47,
+    "timeWeek": 49,
     "timeMonth": 71,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2023-09-08": 1
+      "2023-09-08": 8
     }
   }
 ]
