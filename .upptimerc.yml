@@ -170,12 +170,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
 
-  - name: Cioos Pacific fluentd log exporter
-    url: https://data.cioospacific.ca/fluentd
-    maxResponseTime: 500 # 0.5 seconds
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
