@@ -8,19 +8,22 @@ sites:
     url: https://cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: Cioos National CKAN
     url: https://catalogue.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: Cioos National CKAN Sitemap
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: Cioos Atlantic Wordpress
     url: https://cioosatlantic.ca/
@@ -66,25 +69,29 @@ sites:
     url: https://ogsl.ca/en/home-slgo/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: St. Lawrence Global Observatory CKAN
     url: https://catalogue.ogsl.ca/en/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: St. Lawrence Global Observatory CKAN Sitemap
     url: https://catalogue.ogsl.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: St. Lawrence Global Observatory ERDDAP
     url: https://erddap.ogsl.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogsletcax
+      - stephane-lapointe
+      - ogslbevey
 
   - name: Cioos Pacific Wordpress
     url: https://cioospacific.ca
