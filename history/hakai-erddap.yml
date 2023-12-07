@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/index.html
-status: degraded
-code: 503
-responseTime: 13276
-lastUpdated: 2023-12-07T15:06:15.312Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2023-12-07T15:14:35.875Z
 startTime: 2022-06-23T20:23:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
