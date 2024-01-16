@@ -1,7 +1,7 @@
 url: https://data.cioospacific.ca/erddap/index.html
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2024-01-15T23:05:29.956Z
+status: degraded
+code: 503
+responseTime: 26829
+lastUpdated: 2024-01-16T21:39:50.756Z
 startTime: 2022-03-10T21:37:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
