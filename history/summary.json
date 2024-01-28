@@ -426,8 +426,8 @@
     "status": "degraded",
     "uptime": "99.36%",
     "uptimeDay": "17.77%",
-    "uptimeWeek": "36.77%",
-    "uptimeMonth": "85.45%",
+    "uptimeWeek": "36.69%",
+    "uptimeMonth": "85.43%",
     "uptimeYear": "98.79%",
     "time": 3662,
     "timeDay": 7753,
@@ -435,7 +435,7 @@
     "timeMonth": 7330,
     "timeYear": 4189,
     "dailyMinutesDown": {
-      "2024-01-28": 922,
+      "2024-01-28": 931,
       "2024-01-27": 1212,
       "2024-01-26": 958,
       "2024-01-25": 1297,
@@ -448,11 +448,11 @@
     "url": "https://catalogue.cioospacific.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "33.94%",
-    "uptimeWeek": "43.49%",
-    "uptimeMonth": "87.00%",
+    "uptimeDay": "34.51%",
+    "uptimeWeek": "43.69%",
+    "uptimeMonth": "87.04%",
     "uptimeYear": "98.92%",
     "time": 3601,
     "timeDay": 6927,
@@ -465,7 +465,7 @@
       "2024-01-26": 988,
       "2024-01-25": 1266,
       "2024-01-24": 1128,
-      "2024-01-23": 620
+      "2024-01-23": 600
     }
   },
   {
