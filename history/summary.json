@@ -426,16 +426,16 @@
     "status": "degraded",
     "uptime": "99.35%",
     "uptimeDay": "22.51%",
-    "uptimeWeek": "36.19%",
-    "uptimeMonth": "85.32%",
-    "uptimeYear": "98.78%",
+    "uptimeWeek": "36.08%",
+    "uptimeMonth": "85.29%",
+    "uptimeYear": "98.77%",
     "time": 3886,
     "timeDay": 8456,
-    "timeWeek": 8137,
+    "timeWeek": 8123,
     "timeMonth": 7502,
     "timeYear": 4533,
     "dailyMinutesDown": {
-      "2024-01-29": 1103,
+      "2024-01-29": 1115,
       "2024-01-28": 1132,
       "2024-01-27": 1212,
       "2024-01-26": 958,
@@ -448,19 +448,19 @@
     "url": "https://catalogue.cioospacific.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan-sitemap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "30.98%",
-    "uptimeWeek": "51.25%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "30.50%",
+    "uptimeWeek": "51.15%",
+    "uptimeMonth": "88.76%",
+    "uptimeYear": "99.06%",
     "time": 3980,
-    "timeDay": 8329,
-    "timeWeek": 8050,
-    "timeMonth": 7518,
+    "timeDay": 8332,
+    "timeWeek": 8040,
+    "timeMonth": 7511,
     "timeYear": 4465,
     "dailyMinutesDown": {
-      "2024-01-29": 990,
+      "2024-01-29": 1000,
       "2024-01-28": 928,
       "2024-01-27": 948,
       "2024-01-26": 988,
@@ -503,8 +503,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 774,
       "2023-02-15": 15,
-      "2023-02-03": 236,
-      "2023-01-30": 153
+      "2023-02-03": 236
     }
   },
   {
@@ -545,7 +544,7 @@
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.22%",
+    "uptimeMonth": "87.25%",
     "uptimeYear": "98.50%",
     "time": 956,
     "timeDay": 745,
@@ -720,8 +719,7 @@
       "2023-02-16": 19,
       "2023-02-15": 15,
       "2023-02-10": 17,
-      "2023-02-03": 235,
-      "2023-01-30": 159
+      "2023-02-03": 235
     }
   },
   {
@@ -766,8 +764,7 @@
       "2023-02-16": 19,
       "2023-02-15": 15,
       "2023-02-10": 17,
-      "2023-02-03": 233,
-      "2023-01-30": 157
+      "2023-02-03": 233
     }
   }
 ]
