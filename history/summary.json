@@ -287,12 +287,12 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.90%",
     "time": 737,
     "timeDay": 506,
-    "timeWeek": 586,
+    "timeWeek": 600,
     "timeMonth": 2066,
     "timeYear": 869,
     "dailyMinutesDown": {
@@ -313,12 +313,12 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.48%",
     "time": 367,
     "timeDay": 51,
-    "timeWeek": 62,
+    "timeWeek": 63,
     "timeMonth": 1456,
     "timeYear": 450,
     "dailyMinutesDown": {
@@ -512,8 +512,7 @@
       "2023-03-14": 147,
       "2023-03-13": 931,
       "2023-03-12": 1440,
-      "2023-03-11": 774,
-      "2023-02-15": 15
+      "2023-03-11": 774
     }
   },
   {
@@ -673,9 +672,9 @@
     "slug": "cioos-pacific-erddap-dataset-dfo-meds-buoys",
     "status": "up",
     "uptime": "93.03%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "93.31%",
     "time": 3064,
     "timeDay": 2366,
@@ -683,7 +682,7 @@
     "timeMonth": 2371,
     "timeYear": 3028,
     "dailyMinutesDown": {
-      "2024-02-14": 91,
+      "2024-02-14": 86,
       "2024-02-11": 236,
       "2024-02-05": 239,
       "2024-01-10": 618,
@@ -728,8 +727,7 @@
       "2023-03-13": 931,
       "2023-03-12": 1440,
       "2023-03-11": 772,
-      "2023-02-16": 19,
-      "2023-02-15": 15
+      "2023-02-16": 19
     }
   },
   {
@@ -771,8 +769,7 @@
       "2023-03-13": 931,
       "2023-03-12": 1440,
       "2023-03-11": 771,
-      "2023-02-16": 19,
-      "2023-02-15": 15
+      "2023-02-16": 19
     }
   }
 ]
