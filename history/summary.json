@@ -359,19 +359,19 @@
     "url": "https://cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 126,
-    "timeWeek": 244,
-    "timeMonth": 208,
+    "timeDay": 127,
+    "timeWeek": 232,
+    "timeMonth": 205,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-03-06": 1
+      "2024-03-06": 6
     }
   },
   {
@@ -379,19 +379,19 @@
     "url": "https://cioospacific.ca/applied-data/marine-heat-monitor/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 38,
-    "timeDay": 22,
-    "timeWeek": 37,
-    "timeMonth": 30,
-    "timeYear": 38,
+    "time": 39,
+    "timeDay": 106,
+    "timeWeek": 64,
+    "timeMonth": 37,
+    "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-03-06": 1
+      "2024-03-06": 6
     }
   },
   {
