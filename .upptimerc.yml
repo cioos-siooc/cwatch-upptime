@@ -184,6 +184,13 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
 
+  - name: CIOOS Metadata Entry Form Region Page
+    url: https://cioos-siooc.github.io/metadata-entry-form/#/en/region-select
+    __dangerous__body_down_if_text_missing: 'Welcome to the CIOOS Metadata Entry Tool. To get started, please select the region where your data was collected.'
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
