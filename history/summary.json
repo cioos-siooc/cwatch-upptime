@@ -163,7 +163,7 @@
     "uptime": "87.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.82%",
+    "uptimeMonth": "95.85%",
     "uptimeYear": "87.01%",
     "time": 654,
     "timeDay": 1041,
@@ -382,19 +382,19 @@
     "url": "https://cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 176,
-    "timeWeek": 237,
-    "timeMonth": 225,
-    "timeYear": 293,
+    "time": 293,
+    "timeDay": 280,
+    "timeWeek": 256,
+    "timeMonth": 230,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2024-04-23": 1
+      "2024-04-23": 15
     }
   },
   {
@@ -766,7 +766,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-04-23": 17,
+      "2024-04-23": 33,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
