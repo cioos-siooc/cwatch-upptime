@@ -28,7 +28,7 @@
     "uptime": "99.37%",
     "uptimeDay": "98.36%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "97.02%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "98.73%",
     "time": 2281,
     "timeDay": 7013,
@@ -71,7 +71,7 @@
     "uptime": "98.11%",
     "uptimeDay": "98.54%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "97.14%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "97.17%",
     "time": 1461,
     "timeDay": 8871,
@@ -330,9 +330,9 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "degraded",
     "uptime": "97.91%",
-    "uptimeDay": "47.64%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "47.16%",
+    "uptimeWeek": "90.51%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "98.31%",
     "time": 1902,
     "timeDay": 8007,
@@ -340,7 +340,7 @@
     "timeMonth": 6264,
     "timeYear": 2443,
     "dailyMinutesDown": {
-      "2024-04-29": 753,
+      "2024-04-29": 760,
       "2024-04-28": 180,
       "2024-04-27": 17,
       "2024-02-07": 235,
@@ -391,10 +391,10 @@
     "url": "https://cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 294,
@@ -403,6 +403,7 @@
     "timeMonth": 242,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2024-04-29": 1,
       "2024-04-23": 15
     }
   },
@@ -411,10 +412,10 @@
     "url": "https://cioospacific.ca/applied-data/marine-heat-monitor/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
@@ -422,7 +423,9 @@
     "timeWeek": 35,
     "timeMonth": 32,
     "timeYear": 37,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-29": 1
+    }
   },
   {
     "name": "Cioos Pacific Applied Data - Marine Heat Waves iframe Source",
@@ -775,7 +778,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-04-29": 1347,
+      "2024-04-29": 1354,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
