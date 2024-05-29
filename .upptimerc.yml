@@ -32,7 +32,6 @@ sites:
     url: https://cioosatlantic.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
       - sjbruce
       - JaredMclellan
 
@@ -40,7 +39,6 @@ sites:
     url: https://catalogue.cioosatlantic.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
       - sjbruce
       - JaredMclellan
 
@@ -48,7 +46,6 @@ sites:
     url: https://catalogue.registry.cioosatlantic.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
       - sjbruce
       - JaredMclellan
 
@@ -56,7 +53,6 @@ sites:
     url: https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
       - sjbruce
       - JaredMclellan
 
@@ -64,7 +60,6 @@ sites:
     url: https://cioosatlantic.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
       - sjbruce
       - JaredMclellan
 
@@ -104,47 +99,35 @@ sites:
     url: https://cioospacific.ca
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
+
+  - name: CIOOS Pacific Wordpress Login Page
+    url: https://cioospacific.ca/wp-admin/
+    maxResponseTime: 5000 # 5 seconds
 
   - name: Cioos Pacific Applied Data - Marine Heat Waves
     url: https://cioospacific.ca/applied-data/marine-heat-monitor/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
-      - steviewanders
 
   - name: Cioos Pacific Applied Data - Marine Heat Waves iframe Source
     url: https://hakaiinstitute.github.io/ssta_images/dist
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
-      - steviewanders
 
   - name: Cioos Pacific CKAN
     url: https://catalogue.cioospacific.ca
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
 
   - name: Cioos Pacific CKAN Sitemap
     url: https://catalogue.cioospacific.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
 
   - name: Cioos Pacific ERDDAP
     url: https://data.cioospacific.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
-      - n-a-t-e
-
-  - name: Hakai ERDDAP
-    url: https://catalogue.hakai.org/erddap/index.html
-    maxResponseTime: 5000 # 5 seconds
-    assignees:
-      - fostermh
-      - n-a-t-e
 
   - name: SmartAtlantic ERDDAP
     url: https://www.smartatlantic.ca/erddap/index.html
@@ -158,19 +141,16 @@ sites:
     headers:
       - "Authorization: Basic $GH_CIOOS_PACIFIC_DEV_BASIC_AUTH"
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
 
   - name: CIOOS Data Explorer Website
     url: https://explore.cioos.ca
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - n-a-t-e
 
   - name: CIOOS Data Explorer API
     url: https://explore.cioos.ca/api/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - n-a-t-e
       
   - name: CIOOS Pacific ERDDAP dataset DFO_MEDS_BUOYS
     url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?STN_ID&time>=now-1week&distinct()
@@ -189,7 +169,6 @@ sites:
     __dangerous__body_down_if_text_missing: 'Welcome to the CIOOS Metadata Entry Tool. To get started, please select the region where your data was collected.'
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - fostermh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
