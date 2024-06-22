@@ -1,7 +1,7 @@
 url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
-status: up
+status: degraded
 code: 200
-responseTime: 3275
-lastUpdated: 2024-06-22T06:25:07.193Z
+responseTime: 7936
+lastUpdated: 2024-06-22T06:41:19.858Z
 startTime: 2022-10-27T20:32:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
