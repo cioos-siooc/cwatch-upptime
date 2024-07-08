@@ -24,13 +24,13 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "86.44%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "86.42%",
     "uptimeWeek": "96.01%",
     "uptimeMonth": "77.65%",
-    "uptimeYear": "96.53%",
-    "time": 4361,
+    "uptimeYear": "96.55%",
+    "time": 4364,
     "timeDay": 6912,
     "timeWeek": 6923,
     "timeMonth": 7523,
@@ -81,7 +81,7 @@
       "2023-12-14": 15,
       "2023-12-11": 417,
       "2023-12-10": 1440,
-      "2023-12-09": 893
+      "2023-12-09": 763
     }
   },
   {
@@ -514,14 +514,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.91%",
+    "uptimeYear": "81.90%",
     "time": 4255,
     "timeDay": 47,
     "timeWeek": 79,
     "timeMonth": 71,
     "timeYear": 4853,
     "dailyMinutesDown": {
-      "2024-07-08": 329,
+      "2024-07-08": 369,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
@@ -848,7 +848,7 @@
     "timeMonth": 105,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-07-08": 329,
+      "2024-07-08": 369,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
