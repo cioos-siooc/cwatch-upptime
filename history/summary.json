@@ -152,19 +152,19 @@
     "url": "https://cioosatlantic.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-wordpress",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 414,
-    "timeDay": 430,
-    "timeWeek": 391,
-    "timeMonth": 546,
+    "timeDay": 403,
+    "timeWeek": 389,
+    "timeMonth": 541,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-07-28": 1,
+      "2024-07-28": 9,
       "2024-07-17": 15,
       "2024-01-09": 72,
       "2023-11-17": 27,
@@ -265,7 +265,7 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "98.09%",
     "uptimeYear": "99.82%",
     "time": 166,
@@ -407,9 +407,9 @@
     "slug": "cioos-pacific-wordpress",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 410,
@@ -417,7 +417,7 @@
     "timeMonth": 280,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-07-28": 1,
+      "2024-07-28": 9,
       "2024-04-23": 15
     }
   },
@@ -427,18 +427,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress-login-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 715,
     "timeDay": 558,
     "timeWeek": 641,
     "timeMonth": 751,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-07-28": 1
+      "2024-07-28": 9
     }
   },
   {
@@ -448,9 +448,9 @@
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 41,
     "timeDay": 67,
@@ -458,7 +458,7 @@
     "timeMonth": 44,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2024-07-28": 1
+      "2024-07-28": 9
     }
   },
   {
@@ -526,7 +526,7 @@
     "timeMonth": 67,
     "timeYear": 4855,
     "dailyMinutesDown": {
-      "2024-07-28": 198,
+      "2024-07-28": 206,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -765,7 +765,7 @@
     "status": "up",
     "uptime": "92.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.10%",
+    "uptimeWeek": "66.18%",
     "uptimeMonth": "76.56%",
     "uptimeYear": "91.45%",
     "time": 5087,
@@ -880,7 +880,7 @@
     "timeMonth": 89,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-07-28": 198,
+      "2024-07-28": 207,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
