@@ -8,7 +8,6 @@ sites:
     url: https://cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
@@ -16,7 +15,6 @@ sites:
     url: https://catalogue.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
@@ -24,7 +22,6 @@ sites:
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
@@ -67,7 +64,6 @@ sites:
     url: https://ogsl.ca/en/home-slgo/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
@@ -75,7 +71,6 @@ sites:
     url: https://catalogue.ogsl.ca/en/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
@@ -83,7 +78,6 @@ sites:
     url: https://catalogue.ogsl.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
@@ -91,7 +85,6 @@ sites:
     url: https://erddap.ogsl.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - stephane-lapointe
       - ogslbevey
       - ogsletcax
 
