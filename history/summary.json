@@ -235,8 +235,7 @@
       "2023-09-19": 882,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -678,7 +677,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "smart-atlantic-erddap",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -714,7 +713,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1760,
     "timeDay": 829,
     "timeWeek": 455,
@@ -770,17 +769,16 @@
     "slug": "cioos-pacific-erddap-dataset-dfo-meds-buoys",
     "status": "up",
     "uptime": "93.27%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "95.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "95.02%",
     "time": 5046,
     "timeDay": 2645,
     "timeWeek": 1787,
     "timeMonth": 1835,
     "timeYear": 5158,
     "dailyMinutesDown": {
-      "2024-09-13": 7,
       "2024-08-19": 18,
       "2024-07-23": 736,
       "2024-07-22": 1440,
@@ -821,8 +819,7 @@
       "2023-11-27": 92,
       "2023-11-19": 16,
       "2023-11-14": 768,
-      "2023-10-24": 19,
-      "2023-09-15": 972
+      "2023-10-24": 19
     }
   },
   {
@@ -860,11 +857,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cioos-siooc.github.io.ico",
     "slug": "cioos-metadata-entry-form-region-page",
     "status": "up",
-    "uptime": "26.72%",
+    "uptime": "26.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.72%",
+    "uptimeYear": "26.73%",
     "time": 86,
     "timeDay": 259,
     "timeWeek": 100,
