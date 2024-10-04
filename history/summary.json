@@ -211,7 +211,7 @@
     "status": "up",
     "uptime": "88.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.11%",
+    "uptimeWeek": "29.36%",
     "uptimeMonth": "43.40%",
     "uptimeYear": "93.14%",
     "time": 688,
@@ -426,11 +426,11 @@
     "url": "https://cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 285,
     "timeDay": 190,
@@ -438,7 +438,7 @@
     "timeMonth": 262,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-10-04": 5,
+      "2024-10-04": 1,
       "2024-07-28": 21,
       "2024-04-23": 15
     }
@@ -450,9 +450,9 @@
     "slug": "cioos-pacific-wordpress-login-page",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 719,
     "timeDay": 393,
@@ -460,7 +460,6 @@
     "timeMonth": 748,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2024-10-04": 4,
       "2024-07-28": 21
     }
   },
@@ -471,8 +470,8 @@
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
@@ -481,7 +480,6 @@
     "timeMonth": 39,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2024-10-04": 2,
       "2024-07-28": 21
     }
   },
@@ -880,11 +878,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cioos-siooc.github.io.ico",
     "slug": "cioos-metadata-entry-form-region-page",
     "status": "up",
-    "uptime": "35.08%",
+    "uptime": "35.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.08%",
+    "uptimeYear": "35.09%",
     "time": 87,
     "timeDay": 101,
     "timeWeek": 100,
