@@ -354,7 +354,7 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "97.88%",
-    "uptimeDay": "62.59%",
+    "uptimeDay": "63.15%",
     "uptimeWeek": "67.35%",
     "uptimeMonth": "92.42%",
     "uptimeYear": "98.23%",
@@ -497,19 +497,19 @@
     "url": "https://catalogue.cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "96.90%",
-    "time": 4186,
+    "time": 4190,
     "timeDay": 335,
     "timeWeek": 373,
     "timeMonth": 573,
     "timeYear": 4817,
     "dailyMinutesDown": {
-      "2024-12-21": 56,
+      "2024-12-21": 57,
       "2024-08-20": 1169,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -524,7 +524,7 @@
       "2024-01-29": 1115,
       "2024-01-28": 1132,
       "2024-01-27": 1212,
-      "2024-01-26": 899
+      "2024-01-26": 882
     }
   },
   {
