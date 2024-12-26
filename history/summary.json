@@ -6,9 +6,9 @@
     "slug": "cioos-national-wordpress",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1395,
     "timeDay": 680,
@@ -16,7 +16,7 @@
     "timeMonth": 1107,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-12-26": 1
+      "2024-12-26": 8
     }
   },
   {
@@ -306,19 +306,19 @@
     "url": "https://ogsl.ca/en/home-slgo/",
     "icon": "https://icons.duckduckgo.com/ip3/ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-wordpress",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 159,
-    "timeWeek": 167,
-    "timeMonth": 244,
+    "timeDay": 172,
+    "timeWeek": 169,
+    "timeMonth": 242,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-12-26": 1
+      "2024-12-26": 7
     }
   },
   {
@@ -358,7 +358,7 @@
     "status": "up",
     "uptime": "97.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.50%",
+    "uptimeWeek": "73.57%",
     "uptimeMonth": "92.42%",
     "uptimeYear": "98.28%",
     "time": 2837,
@@ -680,17 +680,17 @@
     "slug": "smart-atlantic-erddap",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "14.38%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "98.58%",
+    "uptimeDay": "13.88%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "98.57%",
     "time": 829,
     "timeDay": 0,
     "timeWeek": 435,
     "timeMonth": 572,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-12-26": 567,
+      "2024-12-26": 575,
       "2024-12-25": 666,
       "2024-12-18": 84,
       "2024-12-17": 19,
