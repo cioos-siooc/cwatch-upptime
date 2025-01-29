@@ -1,7 +1,7 @@
 url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?STN_ID&time>=now-1week&distinct()
-status: down
-code: 404
-responseTime: 1089
-lastUpdated: 2025-01-29T03:29:44.105Z
+status: up
+code: 200
+responseTime: 744
+lastUpdated: 2025-01-29T03:36:35.733Z
 startTime: 2023-01-13T23:30:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
