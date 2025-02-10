@@ -6,9 +6,9 @@
     "slug": "cioos-national-wordpress",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 1500,
     "timeDay": 2199,
@@ -16,7 +16,6 @@
     "timeMonth": 1855,
     "timeYear": 1589,
     "dailyMinutesDown": {
-      "2025-02-09": 5,
       "2025-01-10": 62,
       "2024-12-26": 19
     }
@@ -30,12 +29,12 @@
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.73%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "97.66%",
     "time": 5431,
     "timeDay": 201,
     "timeWeek": 210,
-    "timeMonth": 4039,
+    "timeMonth": 4070,
     "timeYear": 5592,
     "dailyMinutesDown": {
       "2025-01-13": 21,
@@ -80,7 +79,7 @@
     "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.80%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "94.23%",
     "time": 4676,
     "timeDay": 102,
@@ -806,8 +805,7 @@
       "2024-02-17": 309,
       "2024-02-16": 204,
       "2024-02-15": 492,
-      "2024-02-14": 86,
-      "2024-02-11": 236
+      "2024-02-14": 86
     }
   },
   {
