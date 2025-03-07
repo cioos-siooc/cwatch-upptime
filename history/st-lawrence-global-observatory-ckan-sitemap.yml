@@ -1,7 +1,7 @@
 url: https://catalogue.ogsl.ca/sitemap/sitemap-1.xml
-status: degraded
-code: 502
-responseTime: 7233
-lastUpdated: 2025-03-07T04:53:19.241Z
+status: up
+code: 200
+responseTime: 4381
+lastUpdated: 2025-03-07T04:58:53.657Z
 startTime: 2022-10-27T20:32:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
