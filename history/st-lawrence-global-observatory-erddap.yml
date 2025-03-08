@@ -1,7 +1,7 @@
 url: https://erddap.ogsl.ca/erddap/index.html
-status: up
+status: degraded
 code: 200
-responseTime: 3069
-lastUpdated: 2025-03-08T15:34:56.924Z
+responseTime: 5279
+lastUpdated: 2025-03-08T16:54:15.036Z
 startTime: 2023-03-14T16:25:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
