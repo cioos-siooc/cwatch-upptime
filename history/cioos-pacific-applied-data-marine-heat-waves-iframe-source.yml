@@ -1,7 +1,7 @@
 url: https://hakaiinstitute.github.io/ssta_images/dist
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2025-03-19T23:06:15.618Z
+status: down
+code: 503
+responseTime: 97
+lastUpdated: 2025-03-20T20:23:00.058Z
 startTime: 2023-06-20T18:02:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
