@@ -1,7 +1,7 @@
 url: https://data.cioospacific.ca/erddap/tabledap/ECCC_MSC_BUOYS.htmlTable?wmo_synop_id&time>now-3hours&distinct()
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2025-03-22T07:25:18.454Z
+status: down
+code: 404
+responseTime: 1099
+lastUpdated: 2025-03-22T11:05:32.087Z
 startTime: 2023-01-13T23:30:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
