@@ -1,7 +1,7 @@
 url: https://catalogue.pac-dev1.cioos.org/
-status: degraded
+status: down
 code: 502
-responseTime: 5308
-lastUpdated: 2025-03-24T06:58:13.839Z
+responseTime: 203
+lastUpdated: 2025-03-24T07:05:45.881Z
 startTime: 2022-03-11T06:19:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
