@@ -110,17 +110,17 @@
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "67.01%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "95.24%",
+    "uptimeDay": "67.37%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "95.23%",
     "time": 4775,
     "timeDay": 9061,
     "timeWeek": 7585,
     "timeMonth": 5179,
     "timeYear": 5040,
     "dailyMinutesDown": {
-      "2025-04-16": 473,
+      "2025-04-16": 468,
       "2025-03-30": 113,
       "2025-03-23": 20,
       "2025-03-18": 24,
@@ -168,7 +168,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 948,
-      "2024-06-21": 170
+      "2024-06-21": 193
     }
   },
   {
@@ -213,7 +213,7 @@
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.69%",
+    "uptimeMonth": "90.70%",
     "uptimeYear": "97.70%",
     "time": 2084,
     "timeDay": 0,
@@ -314,7 +314,7 @@
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.13%",
+    "uptimeMonth": "91.15%",
     "uptimeYear": "96.80%",
     "time": 665,
     "timeDay": 0,
@@ -872,7 +872,7 @@
     "uptime": "95.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.61%",
+    "uptimeMonth": "14.60%",
     "uptimeYear": "92.60%",
     "time": 1037,
     "timeDay": 0,
@@ -880,7 +880,8 @@
     "timeMonth": 571,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-04-16": 1438,
+      "2025-04-17": 3,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -955,15 +956,16 @@
     "uptime": "90.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.36%",
-    "uptimeYear": "87.10%",
+    "uptimeMonth": "27.35%",
+    "uptimeYear": "87.09%",
     "time": 5436,
     "timeDay": 10943,
     "timeWeek": 8450,
     "timeMonth": 6307,
     "timeYear": 5877,
     "dailyMinutesDown": {
-      "2025-04-16": 1438,
+      "2025-04-17": 3,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1212,8 +1214,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   }
 ]
