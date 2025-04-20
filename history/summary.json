@@ -48,9 +48,9 @@
     "slug": "cioos-national-ckan",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "83.36%",
-    "uptimeWeek": "85.28%",
-    "uptimeMonth": "96.06%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "85.33%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "98.09%",
     "time": 5441,
     "timeDay": 5232,
@@ -58,7 +58,7 @@
     "timeMonth": 6714,
     "timeYear": 5603,
     "dailyMinutesDown": {
-      "2025-04-19": 240,
+      "2025-04-19": 235,
       "2025-04-18": 462,
       "2025-04-17": 302,
       "2025-04-16": 481,
@@ -98,7 +98,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1392,
       "2024-08-16": 215,
-      "2024-08-15": 249
+      "2024-08-15": 265
     }
   },
   {
@@ -212,7 +212,7 @@
     "time": 2084,
     "timeDay": 773,
     "timeWeek": 582,
-    "timeMonth": 2697,
+    "timeMonth": 2706,
     "timeYear": 2208,
     "dailyMinutesDown": {
       "2025-03-27": 64,
@@ -866,7 +866,7 @@
     "uptime": "95.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.76%",
+    "uptimeMonth": "4.74%",
     "uptimeYear": "91.77%",
     "time": 1028,
     "timeDay": 507,
@@ -874,7 +874,8 @@
     "timeMonth": 571,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-04-19": 1435,
+      "2025-04-20": 3,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -952,15 +953,16 @@
     "uptime": "90.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.55%",
+    "uptimeMonth": "17.53%",
     "uptimeYear": "86.27%",
     "time": 5500,
-    "timeDay": 8371,
+    "timeDay": 8806,
     "timeWeek": 8822,
     "timeMonth": 6766,
     "timeYear": 5930,
     "dailyMinutesDown": {
-      "2025-04-19": 1435,
+      "2025-04-20": 3,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1047,12 +1049,12 @@
     "slug": "cioos-pacific-erddap-dataset-eccc-msc-buoys",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "99.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.10%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.42%",
     "time": 1938,
-    "timeDay": 1994,
+    "timeDay": 2086,
     "timeWeek": 2194,
     "timeMonth": 2535,
     "timeYear": 2046,
@@ -1210,8 +1212,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   }
 ]
