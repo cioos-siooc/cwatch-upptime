@@ -47,12 +47,12 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "64.18%",
+    "uptimeDay": "64.16%",
     "uptimeWeek": "86.73%",
     "uptimeMonth": "96.95%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.04%",
     "time": 5854,
     "timeDay": 7402,
     "timeWeek": 9704,
@@ -95,8 +95,7 @@
       "2025-02-13": 67,
       "2025-02-12": 16,
       "2025-02-10": 19,
-      "2025-01-13": 21,
-      "2025-01-12": 134
+      "2025-01-13": 21
     }
   },
   {
@@ -408,7 +407,7 @@
     "slug": "st-lawrence-global-observatory-ckan",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "70.08%",
+    "uptimeDay": "70.67%",
     "uptimeWeek": "78.45%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "98.70%",
@@ -472,7 +471,7 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "70.09%",
+    "uptimeDay": "70.68%",
     "uptimeWeek": "78.45%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "98.03%",
@@ -931,7 +930,7 @@
     "timeMonth": 6530,
     "timeYear": 4266,
     "dailyMinutesDown": {
-      "2025-06-10": 342,
+      "2025-06-10": 350,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
