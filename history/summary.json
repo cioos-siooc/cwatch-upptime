@@ -49,12 +49,12 @@
     "slug": "cioos-national-ckan",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "74.83%",
+    "uptimeDay": "75.93%",
     "uptimeWeek": "85.28%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "99.02%",
     "time": 5846,
-    "timeDay": 6443,
+    "timeDay": 5196,
     "timeWeek": 9229,
     "timeMonth": 8598,
     "timeYear": 5899,
@@ -102,12 +102,12 @@
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "76.56%",
+    "uptimeDay": "77.58%",
     "uptimeWeek": "85.93%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "97.74%",
     "time": 5677,
-    "timeDay": 6974,
+    "timeDay": 5552,
     "timeWeek": 9788,
     "timeMonth": 9168,
     "timeYear": 5755,
@@ -671,7 +671,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.41%",
+    "uptimeYear": "81.42%",
     "time": 305,
     "timeDay": 83,
     "timeWeek": 135,
@@ -746,8 +746,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -915,14 +914,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.48%",
+    "uptimeYear": "73.47%",
     "time": 5055,
     "timeDay": 9706,
     "timeWeek": 7502,
     "timeMonth": 6848,
     "timeYear": 4288,
     "dailyMinutesDown": {
-      "2025-06-10": 1409,
+      "2025-06-11": 3,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -1108,7 +1108,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.76%",
+    "uptimeYear": "85.77%",
     "time": 91,
     "timeDay": 70,
     "timeWeek": 155,
@@ -1165,8 +1165,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   }
 ]
