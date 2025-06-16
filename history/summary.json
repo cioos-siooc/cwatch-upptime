@@ -51,15 +51,16 @@
     "uptime": "99.63%",
     "uptimeDay": "46.48%",
     "uptimeWeek": "64.60%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "98.78%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "98.77%",
     "time": 6008,
     "timeDay": 6660,
-    "timeWeek": 7785,
+    "timeWeek": 7733,
     "timeMonth": 8110,
     "timeYear": 6077,
     "dailyMinutesDown": {
-      "2025-06-15": 767,
+      "2025-06-16": 1,
+      "2025-06-15": 771,
       "2025-06-14": 1293,
       "2025-06-13": 434,
       "2025-06-11": 308,
@@ -84,19 +85,20 @@
     "url": "https://catalogue.cioos.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "55.07%",
+    "uptimeDay": "55.01%",
     "uptimeWeek": "67.60%",
-    "uptimeMonth": "90.95%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "98.93%",
     "time": 5817,
-    "timeDay": 7031,
-    "timeWeek": 7034,
-    "timeMonth": 7538,
-    "timeYear": 5894,
+    "timeDay": 6860,
+    "timeWeek": 7005,
+    "timeMonth": 7512,
+    "timeYear": 5890,
     "dailyMinutesDown": {
-      "2025-06-15": 643,
+      "2025-06-16": 2,
+      "2025-06-15": 648,
       "2025-06-14": 1292,
       "2025-06-13": 357,
       "2025-06-11": 258,
@@ -245,8 +247,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 749,
-      "2024-06-17": 822,
-      "2024-06-16": 429
+      "2024-06-17": 822
     }
   },
   {
@@ -366,7 +367,7 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.30%",
+    "uptimeWeek": "92.36%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "98.70%",
     "time": 2003,
@@ -430,7 +431,7 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.30%",
+    "uptimeWeek": "92.37%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "98.03%",
     "time": 1805,
@@ -707,8 +708,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -884,7 +884,8 @@
     "timeMonth": 7440,
     "timeYear": 4386,
     "dailyMinutesDown": {
-      "2025-06-15": 1436,
+      "2025-06-16": 3,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -1130,8 +1131,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   }
 ]
