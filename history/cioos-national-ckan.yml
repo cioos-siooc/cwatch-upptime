@@ -1,7 +1,7 @@
 url: https://catalogue.cioos.ca/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-24T21:37:04.133Z
+status: degraded
+code: 200
+responseTime: 25344
+lastUpdated: 2025-06-24T22:11:08.943Z
 startTime: 2022-03-10T21:49:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
