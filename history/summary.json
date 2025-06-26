@@ -50,7 +50,7 @@
     "slug": "cioos-national-ckan",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "43.30%",
+    "uptimeDay": "44.50%",
     "uptimeWeek": "82.33%",
     "uptimeMonth": "85.61%",
     "uptimeYear": "98.62%",
@@ -90,7 +90,7 @@
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "43.02%",
+    "uptimeDay": "44.23%",
     "uptimeWeek": "83.89%",
     "uptimeMonth": "86.70%",
     "uptimeYear": "98.79%",
@@ -643,7 +643,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.52%",
+    "uptimeYear": "85.53%",
     "time": 205,
     "timeDay": 3454,
     "timeWeek": 1275,
@@ -703,8 +703,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-27": 1440
     }
   },
   {
@@ -719,7 +718,7 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.88%",
     "time": 2992,
-    "timeDay": 244,
+    "timeDay": 261,
     "timeWeek": 4010,
     "timeMonth": 3885,
     "timeYear": 3297,
@@ -877,12 +876,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "69.37%",
     "time": 4770,
-    "timeDay": 5767,
+    "timeDay": 6802,
     "timeWeek": 7285,
     "timeMonth": 7462,
     "timeYear": 4556,
     "dailyMinutesDown": {
-      "2025-06-25": 1426,
+      "2025-06-26": 4,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -1030,7 +1030,7 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.37%",
     "time": 1909,
-    "timeDay": 564,
+    "timeDay": 618,
     "timeWeek": 1784,
     "timeMonth": 1545,
     "timeYear": 1881,
@@ -1130,8 +1130,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-27": 1440
     }
   }
 ]
