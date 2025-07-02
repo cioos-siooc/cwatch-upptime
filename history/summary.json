@@ -48,19 +48,19 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "75.50%",
-    "uptimeWeek": "73.06%",
-    "uptimeMonth": "83.92%",
-    "uptimeYear": "98.66%",
-    "time": 6121,
+    "uptimeDay": "76.44%",
+    "uptimeWeek": "73.04%",
+    "uptimeMonth": "84.09%",
+    "uptimeYear": "98.67%",
+    "time": 6122,
     "timeDay": 6561,
     "timeWeek": 8958,
     "timeMonth": 7975,
     "timeYear": 6005,
     "dailyMinutesDown": {
-      "2025-07-02": 138,
+      "2025-07-02": 140,
       "2025-07-01": 585,
       "2025-06-30": 456,
       "2025-06-29": 105,
@@ -76,7 +76,7 @@
       "2025-06-15": 771,
       "2025-06-14": 1293,
       "2025-06-13": 434,
-      "2025-06-11": 274
+      "2025-06-11": 195
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://catalogue.cioos.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "74.32%",
-    "uptimeWeek": "73.89%",
-    "uptimeMonth": "85.64%",
-    "uptimeYear": "98.80%",
-    "time": 6001,
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "75.36%",
+    "uptimeWeek": "73.88%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "98.81%",
+    "time": 5990,
     "timeDay": 6623,
     "timeWeek": 8501,
     "timeMonth": 7397,
     "timeYear": 5772,
     "dailyMinutesDown": {
-      "2025-07-02": 137,
+      "2025-07-02": 138,
       "2025-07-01": 588,
       "2025-06-30": 438,
       "2025-06-29": 103,
@@ -110,7 +110,7 @@
       "2025-06-16": 183,
       "2025-06-15": 648,
       "2025-06-14": 1292,
-      "2025-06-13": 315
+      "2025-06-13": 271
     }
   },
   {
@@ -869,7 +869,7 @@
     "timeMonth": 7748,
     "timeYear": 4652,
     "dailyMinutesDown": {
-      "2025-07-02": 513,
+      "2025-07-02": 529,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
