@@ -50,9 +50,9 @@
     "slug": "cioos-national-ckan",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "70.42%",
-    "uptimeWeek": "61.43%",
-    "uptimeMonth": "88.48%",
+    "uptimeDay": "70.15%",
+    "uptimeWeek": "61.39%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "99.04%",
     "time": 6115,
     "timeDay": 6807,
@@ -60,7 +60,8 @@
     "timeMonth": 7878,
     "timeYear": 6079,
     "dailyMinutesDown": {
-      "2025-07-07": 426,
+      "2025-07-08": 2,
+      "2025-07-07": 428,
       "2025-07-06": 608,
       "2025-07-05": 636,
       "2025-07-04": 588,
@@ -80,9 +81,9 @@
     "slug": "cioos-national-ckan-sitemap",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "71.93%",
-    "uptimeWeek": "63.16%",
-    "uptimeMonth": "89.68%",
+    "uptimeDay": "71.66%",
+    "uptimeWeek": "63.12%",
+    "uptimeMonth": "89.67%",
     "uptimeYear": "99.14%",
     "time": 5896,
     "timeDay": 6567,
@@ -90,7 +91,8 @@
     "timeMonth": 7121,
     "timeYear": 5826,
     "dailyMinutesDown": {
-      "2025-07-07": 406,
+      "2025-07-08": 2,
+      "2025-07-07": 407,
       "2025-07-06": 568,
       "2025-07-05": 567,
       "2025-07-04": 571,
@@ -198,8 +200,8 @@
     "status": "down",
     "uptime": "90.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.20%",
-    "uptimeMonth": "85.78%",
+    "uptimeWeek": "38.17%",
+    "uptimeMonth": "85.77%",
     "uptimeYear": "92.46%",
     "time": 760,
     "timeDay": 0,
@@ -207,7 +209,8 @@
     "timeMonth": 588,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2025-07-07": 1439,
+      "2025-07-08": 3,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -411,12 +414,12 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "76.22%",
+    "uptimeDay": "76.48%",
     "uptimeWeek": "94.56%",
     "uptimeMonth": "91.99%",
     "uptimeYear": "97.95%",
     "time": 1917,
-    "timeDay": 4260,
+    "timeDay": 4281,
     "timeWeek": 2976,
     "timeMonth": 2463,
     "timeYear": 1689,
@@ -673,8 +676,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -853,6 +855,7 @@
     "timeMonth": 7822,
     "timeYear": 4739,
     "dailyMinutesDown": {
+      "2025-07-08": 3,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
@@ -1098,8 +1101,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   }
 ]
