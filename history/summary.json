@@ -53,16 +53,17 @@
     "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "13.69%",
-    "uptimeWeek": "26.68%",
-    "uptimeMonth": "80.92%",
+    "uptimeWeek": "26.66%",
+    "uptimeMonth": "80.90%",
     "uptimeYear": "98.41%",
     "time": 6187,
     "timeDay": 7917,
-    "timeWeek": 8522,
+    "timeWeek": 8445,
     "timeMonth": 7858,
     "timeYear": 6234,
     "dailyMinutesDown": {
-      "2025-07-17": 1240,
+      "2025-07-18": 1,
+      "2025-07-17": 1244,
       "2025-07-16": 1243,
       "2025-07-15": 1136,
       "2025-07-14": 797,
@@ -81,16 +82,17 @@
     "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "15.07%",
-    "uptimeWeek": "28.37%",
-    "uptimeMonth": "82.82%",
+    "uptimeWeek": "28.36%",
+    "uptimeMonth": "82.81%",
     "uptimeYear": "98.57%",
     "time": 5684,
     "timeDay": 3916,
-    "timeWeek": 5075,
+    "timeWeek": 5098,
     "timeMonth": 6200,
     "timeYear": 5634,
     "dailyMinutesDown": {
-      "2025-07-17": 1219,
+      "2025-07-18": 1,
+      "2025-07-17": 1223,
       "2025-07-16": 1217,
       "2025-07-15": 1118,
       "2025-07-14": 793,
@@ -182,8 +184,7 @@
       "2024-09-06": 32,
       "2024-09-05": 990,
       "2024-09-04": 187,
-      "2024-07-30": 816,
-      "2024-07-18": 41
+      "2024-07-30": 816
     }
   },
   {
@@ -195,7 +196,7 @@
     "uptime": "89.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.91%",
+    "uptimeMonth": "52.90%",
     "uptimeYear": "89.72%",
     "time": 764,
     "timeDay": 0,
@@ -203,7 +204,8 @@
     "timeMonth": 568,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-07-17": 1436,
+      "2025-07-18": 1,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -294,8 +296,7 @@
       "2024-09-06": 32,
       "2024-09-05": 1144,
       "2024-09-04": 187,
-      "2024-07-30": 816,
-      "2024-07-18": 41
+      "2024-07-30": 816
     }
   },
   {
@@ -364,19 +365,20 @@
     "url": "https://catalogue.ogsl.ca/en/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "79.11%",
-    "uptimeWeek": "59.35%",
-    "uptimeMonth": "81.36%",
+    "uptimeDay": "78.73%",
+    "uptimeWeek": "59.29%",
+    "uptimeMonth": "81.34%",
     "uptimeYear": "97.59%",
-    "time": 2682,
-    "timeDay": 6454,
-    "timeWeek": 6700,
-    "timeMonth": 5176,
-    "timeYear": 2584,
+    "time": 2674,
+    "timeDay": 6139,
+    "timeWeek": 6645,
+    "timeMonth": 5165,
+    "timeYear": 2583,
     "dailyMinutesDown": {
-      "2025-07-17": 301,
+      "2025-07-18": 1,
+      "2025-07-17": 305,
       "2025-07-16": 44,
       "2025-07-14": 892,
       "2025-07-13": 1363,
@@ -418,19 +420,20 @@
     "url": "https://catalogue.ogsl.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "78.27%",
-    "uptimeWeek": "58.89%",
-    "uptimeMonth": "81.27%",
+    "uptimeDay": "77.89%",
+    "uptimeWeek": "58.84%",
+    "uptimeMonth": "81.26%",
     "uptimeYear": "97.53%",
-    "time": 2345,
-    "timeDay": 7591,
-    "timeWeek": 6260,
-    "timeMonth": 4706,
-    "timeYear": 2316,
+    "time": 2343,
+    "timeDay": 7087,
+    "timeWeek": 6211,
+    "timeMonth": 4695,
+    "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-07-17": 313,
+      "2025-07-18": 1,
+      "2025-07-17": 317,
       "2025-07-16": 54,
       "2025-07-14": 963,
       "2025-07-13": 1363,
@@ -664,8 +667,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   },
   {
@@ -846,7 +848,8 @@
     "timeMonth": 7526,
     "timeYear": 4865,
     "dailyMinutesDown": {
-      "2025-07-17": 1437,
+      "2025-07-18": 2,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -996,8 +999,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   },
   {
@@ -1074,7 +1076,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.90%",
+    "uptimeYear": "95.91%",
     "time": 92,
     "timeDay": 87,
     "timeWeek": 107,
@@ -1094,8 +1096,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   }
 ]
