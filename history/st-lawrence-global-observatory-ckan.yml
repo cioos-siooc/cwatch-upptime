@@ -1,7 +1,7 @@
 url: https://catalogue.ogsl.ca/en/
-status: down
-code: 502
-responseTime: 85
-lastUpdated: 2025-07-19T19:53:11.793Z
+status: degraded
+code: 200
+responseTime: 13015
+lastUpdated: 2025-07-19T20:09:20.322Z
 startTime: 2022-03-10T21:49:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
