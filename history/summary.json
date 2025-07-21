@@ -50,19 +50,20 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "8.42%",
     "uptimeWeek": "17.28%",
-    "uptimeMonth": "78.66%",
+    "uptimeMonth": "78.64%",
     "uptimeYear": "98.22%",
-    "time": 6326,
-    "timeDay": 11669,
+    "time": 6328,
+    "timeDay": 11927,
     "timeWeek": 8486,
     "timeMonth": 8116,
-    "timeYear": 6369,
+    "timeYear": 6370,
     "dailyMinutesDown": {
-      "2025-07-20": 1314,
+      "2025-07-21": 1,
+      "2025-07-20": 1319,
       "2025-07-19": 1309,
       "2025-07-18": 1292,
       "2025-07-17": 1244,
@@ -82,15 +83,16 @@
     "uptime": "99.36%",
     "uptimeDay": "7.63%",
     "uptimeWeek": "17.50%",
-    "uptimeMonth": "78.93%",
+    "uptimeMonth": "78.92%",
     "uptimeYear": "98.24%",
     "time": 5704,
-    "timeDay": 9081,
+    "timeDay": 9023,
     "timeWeek": 5294,
     "timeMonth": 6321,
     "timeYear": 5693,
     "dailyMinutesDown": {
-      "2025-07-20": 1324,
+      "2025-07-21": 1,
+      "2025-07-20": 1329,
       "2025-07-19": 1302,
       "2025-07-18": 1331,
       "2025-07-17": 1223,
@@ -195,7 +197,7 @@
     "uptime": "89.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.05%",
+    "uptimeMonth": "43.04%",
     "uptimeYear": "88.90%",
     "time": 765,
     "timeDay": 0,
@@ -203,7 +205,8 @@
     "timeMonth": 552,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-07-20": 1435,
+      "2025-07-21": 2,
+      "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
@@ -328,8 +331,7 @@
       "2024-09-24": 106,
       "2024-09-17": 51,
       "2024-07-30": 816,
-      "2024-07-22": 25,
-      "2024-07-21": 123
+      "2024-07-22": 25
     }
   },
   {
@@ -365,19 +367,20 @@
     "url": "https://catalogue.ogsl.ca/en/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.10%",
     "uptimeDay": "0.73%",
     "uptimeWeek": "52.27%",
-    "uptimeMonth": "73.32%",
+    "uptimeMonth": "73.30%",
     "uptimeYear": "96.96%",
-    "time": 2883,
-    "timeDay": 8744,
-    "timeWeek": 7282,
-    "timeMonth": 5851,
-    "timeYear": 2815,
+    "time": 2881,
+    "timeDay": 8589,
+    "timeWeek": 7242,
+    "timeMonth": 5841,
+    "timeYear": 2814,
     "dailyMinutesDown": {
-      "2025-07-20": 1425,
+      "2025-07-21": 2,
+      "2025-07-20": 1429,
       "2025-07-19": 1269,
       "2025-07-18": 871,
       "2025-07-17": 305,
@@ -425,15 +428,16 @@
     "uptime": "98.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "43.90%",
-    "uptimeMonth": "71.49%",
+    "uptimeMonth": "71.47%",
     "uptimeYear": "96.71%",
     "time": 2638,
-    "timeDay": 8054,
+    "timeDay": 8225,
     "timeWeek": 7557,
     "timeMonth": 5532,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2025-07-20": 1436,
+      "2025-07-21": 2,
+      "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 317,
@@ -632,7 +636,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.37%",
+    "uptimeYear": "92.38%",
     "time": 246,
     "timeDay": 77,
     "timeWeek": 1742,
@@ -667,8 +671,7 @@
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
-      "2024-07-22": 1440,
-      "2024-07-21": 1440
+      "2024-07-22": 1440
     }
   },
   {
@@ -849,7 +852,8 @@
     "timeMonth": 7522,
     "timeYear": 4881,
     "dailyMinutesDown": {
-      "2025-07-20": 1436,
+      "2025-07-21": 3,
+      "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
@@ -999,8 +1003,7 @@
       "2024-09-17": 117,
       "2024-08-19": 18,
       "2024-07-23": 736,
-      "2024-07-22": 1440,
-      "2024-07-21": 1440
+      "2024-07-22": 1440
     }
   },
   {
@@ -1094,8 +1097,7 @@
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
-      "2024-07-22": 1440,
-      "2024-07-21": 1440
+      "2024-07-22": 1440
     }
   }
 ]
