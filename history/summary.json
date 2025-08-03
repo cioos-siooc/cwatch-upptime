@@ -50,19 +50,19 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "56.65%",
-    "uptimeWeek": "79.90%",
-    "uptimeMonth": "78.07%",
-    "uptimeYear": "98.17%",
-    "time": 6599,
+    "uptimeDay": "56.51%",
+    "uptimeWeek": "79.97%",
+    "uptimeMonth": "78.14%",
+    "uptimeYear": "98.18%",
+    "time": 6597,
     "timeDay": 3573,
     "timeWeek": 6478,
     "timeMonth": 8053,
     "timeYear": 6603,
     "dailyMinutesDown": {
-      "2025-08-03": 624,
+      "2025-08-03": 626,
       "2025-08-01": 69,
       "2025-07-31": 663,
       "2025-07-28": 349,
@@ -72,7 +72,7 @@
       "2025-07-24": 1133,
       "2025-07-23": 1142,
       "2025-07-22": 1256,
-      "2025-07-21": 645
+      "2025-07-21": 612
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://catalogue.cioos.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "57.90%",
-    "uptimeWeek": "72.00%",
-    "uptimeMonth": "76.93%",
-    "uptimeYear": "98.08%",
-    "time": 5723,
+    "uptimeDay": "57.78%",
+    "uptimeWeek": "72.07%",
+    "uptimeMonth": "77.16%",
+    "uptimeYear": "98.10%",
+    "time": 5726,
     "timeDay": 234,
     "timeWeek": 4585,
     "timeMonth": 5869,
     "timeYear": 5751,
     "dailyMinutesDown": {
-      "2025-08-03": 606,
+      "2025-08-03": 608,
       "2025-08-01": 528,
       "2025-07-31": 1066,
       "2025-07-28": 310,
@@ -102,7 +102,7 @@
       "2025-07-24": 1028,
       "2025-07-23": 1073,
       "2025-07-22": 1306,
-      "2025-07-21": 543
+      "2025-07-21": 440
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-08-03": 829,
+      "2025-08-03": 838,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -377,19 +377,19 @@
     "url": "https://catalogue.ogsl.ca/en/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "18.47%",
-    "uptimeWeek": "46.02%",
+    "uptimeDay": "18.36%",
+    "uptimeWeek": "46.09%",
     "uptimeMonth": "55.36%",
-    "uptimeYear": "95.37%",
-    "time": 3107,
+    "uptimeYear": "95.38%",
+    "time": 3108,
     "timeDay": 5705,
     "timeWeek": 4921,
     "timeMonth": 6198,
     "timeYear": 3088,
     "dailyMinutesDown": {
-      "2025-08-03": 798,
+      "2025-08-03": 800,
       "2025-08-02": 376,
       "2025-07-30": 777,
       "2025-07-29": 1440,
@@ -429,7 +429,7 @@
       "2025-03-21": 127,
       "2025-03-20": 854,
       "2025-03-19": 78,
-      "2025-03-18": 48
+      "2025-03-18": 25
     }
   },
   {
@@ -437,11 +437,11 @@
     "url": "https://catalogue.ogsl.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "17.77%",
-    "uptimeWeek": "45.29%",
-    "uptimeMonth": "50.23%",
+    "uptimeDay": "17.69%",
+    "uptimeWeek": "45.36%",
+    "uptimeMonth": "50.22%",
     "uptimeYear": "94.82%",
     "time": 2808,
     "timeDay": 4893,
@@ -449,7 +449,7 @@
     "timeMonth": 5919,
     "timeYear": 2856,
     "dailyMinutesDown": {
-      "2025-08-03": 765,
+      "2025-08-03": 766,
       "2025-08-02": 419,
       "2025-07-30": 840,
       "2025-07-29": 1440,
@@ -499,7 +499,7 @@
       "2025-03-12": 112,
       "2025-03-11": 90,
       "2025-03-10": 97,
-      "2025-03-09": 99
+      "2025-03-09": 83
     }
   },
   {
@@ -685,7 +685,7 @@
     "slug": "cioos-pacific-erddap",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "80.69%",
+    "uptimeDay": "81.30%",
     "uptimeWeek": "88.50%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.66%",
@@ -857,7 +857,7 @@
     "timeMonth": 7160,
     "timeYear": 4921,
     "dailyMinutesDown": {
-      "2025-08-03": 830,
+      "2025-08-03": 839,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1029,7 +1029,7 @@
     "slug": "cioos-pacific-erddap-dataset-eccc-msc-buoys",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "83.75%",
+    "uptimeDay": "84.36%",
     "uptimeWeek": "88.94%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "99.13%",
