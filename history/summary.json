@@ -208,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-08-06": 982,
+      "2025-08-06": 998,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -383,19 +383,19 @@
     "url": "https://catalogue.ogsl.ca/en/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.63%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "71.30%",
-    "uptimeMonth": "51.66%",
-    "uptimeYear": "95.33%",
-    "time": 3232,
-    "timeDay": 3975,
-    "timeWeek": 6036,
-    "timeMonth": 6580,
-    "timeYear": 3209,
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "71.29%",
+    "uptimeMonth": "51.65%",
+    "uptimeYear": "95.34%",
+    "time": 3239,
+    "timeDay": 5558,
+    "timeWeek": 6119,
+    "timeMonth": 6607,
+    "timeYear": 3215,
     "dailyMinutesDown": {
-      "2025-08-06": 53,
+      "2025-08-06": 54,
       "2025-08-05": 700,
       "2025-08-04": 639,
       "2025-08-03": 1122,
@@ -430,7 +430,7 @@
       "2025-06-08": 1400,
       "2025-06-02": 16,
       "2025-03-27": 85,
-      "2025-03-26": 85
+      "2025-03-26": 56
     }
   },
   {
@@ -440,17 +440,17 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "75.22%",
-    "uptimeMonth": "47.42%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "75.33%",
+    "uptimeMonth": "47.44%",
     "uptimeYear": "94.65%",
     "time": 2842,
     "timeDay": 2873,
     "timeWeek": 4156,
-    "timeMonth": 6005,
+    "timeMonth": 6020,
     "timeYear": 2898,
     "dailyMinutesDown": {
-      "2025-08-06": 51,
+      "2025-08-06": 40,
       "2025-08-05": 751,
       "2025-08-04": 299,
       "2025-08-03": 979,
@@ -499,7 +499,7 @@
       "2025-03-18": 23,
       "2025-03-16": 44,
       "2025-03-14": 51,
-      "2025-03-13": 17
+      "2025-03-13": 34
     }
   },
   {
@@ -857,7 +857,7 @@
     "timeMonth": 7116,
     "timeYear": 4950,
     "dailyMinutesDown": {
-      "2025-08-06": 984,
+      "2025-08-06": 999,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
