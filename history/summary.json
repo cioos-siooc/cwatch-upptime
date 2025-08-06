@@ -82,19 +82,19 @@
     "url": "https://catalogue.cioos.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "75.56%",
-    "uptimeMonth": "79.02%",
-    "uptimeYear": "98.25%",
-    "time": 5744,
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "75.55%",
+    "uptimeMonth": "79.55%",
+    "uptimeYear": "98.30%",
+    "time": 5745,
     "timeDay": 3090,
     "timeWeek": 4512,
-    "timeMonth": 5641,
+    "timeMonth": 5642,
     "timeYear": 5725,
     "dailyMinutesDown": {
-      "2025-08-06": 23,
+      "2025-08-06": 24,
       "2025-08-05": 21,
       "2025-08-04": 64,
       "2025-08-03": 762,
@@ -106,7 +106,7 @@
       "2025-07-25": 1276,
       "2025-07-24": 1028,
       "2025-07-23": 1073,
-      "2025-07-22": 673
+      "2025-07-22": 439
     }
   },
   {
@@ -209,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-08-06": 471,
+      "2025-08-06": 478,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -386,8 +386,8 @@
     "slug": "st-lawrence-global-observatory-ckan",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "77.83%",
-    "uptimeWeek": "68.80%",
+    "uptimeDay": "78.33%",
+    "uptimeWeek": "68.87%",
     "uptimeMonth": "51.72%",
     "uptimeYear": "95.34%",
     "time": 3224,
@@ -441,9 +441,9 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "72.47%",
-    "uptimeWeek": "71.79%",
-    "uptimeMonth": "47.43%",
+    "uptimeDay": "73.56%",
+    "uptimeWeek": "71.95%",
+    "uptimeMonth": "47.45%",
     "uptimeYear": "94.65%",
     "time": 2852,
     "timeDay": 2763,
@@ -451,7 +451,7 @@
     "timeMonth": 5994,
     "timeYear": 2892,
     "dailyMinutesDown": {
-      "2025-08-06": 28,
+      "2025-08-06": 19,
       "2025-08-05": 751,
       "2025-08-04": 299,
       "2025-08-03": 979,
@@ -500,7 +500,8 @@
       "2025-03-18": 23,
       "2025-03-16": 44,
       "2025-03-14": 51,
-      "2025-03-13": 34
+      "2025-03-13": 34,
+      "2025-03-12": 29
     }
   },
   {
@@ -858,7 +859,7 @@
     "timeMonth": 7116,
     "timeYear": 4950,
     "dailyMinutesDown": {
-      "2025-08-06": 472,
+      "2025-08-06": 479,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
