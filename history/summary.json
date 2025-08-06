@@ -50,19 +50,19 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "82.61%",
-    "uptimeMonth": "81.27%",
-    "uptimeYear": "98.44%",
-    "time": 6544,
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "95.38%",
+    "uptimeWeek": "82.60%",
+    "uptimeMonth": "81.44%",
+    "uptimeYear": "98.45%",
+    "time": 6545,
     "timeDay": 3801,
     "timeWeek": 5162,
     "timeMonth": 7889,
     "timeYear": 6549,
     "dailyMinutesDown": {
-      "2025-08-06": 32,
+      "2025-08-06": 33,
       "2025-08-05": 35,
       "2025-08-04": 165,
       "2025-08-03": 790,
@@ -74,7 +74,7 @@
       "2025-07-25": 1348,
       "2025-07-24": 1133,
       "2025-07-23": 1142,
-      "2025-07-22": 98
+      "2025-07-22": 24
     }
   },
   {
@@ -91,7 +91,7 @@
     "time": 5743,
     "timeDay": 2406,
     "timeWeek": 4512,
-    "timeMonth": 5632,
+    "timeMonth": 5620,
     "timeYear": 5725,
     "dailyMinutesDown": {
       "2025-08-06": 40,
@@ -209,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-08-06": 714,
+      "2025-08-06": 720,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -386,12 +386,12 @@
     "slug": "st-lawrence-global-observatory-ckan",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "93.57%",
-    "uptimeWeek": "71.05%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "71.11%",
     "uptimeMonth": "51.68%",
     "uptimeYear": "95.34%",
     "time": 3228,
-    "timeDay": 5279,
+    "timeDay": 5130,
     "timeWeek": 6000,
     "timeMonth": 6535,
     "timeYear": 3207,
@@ -442,9 +442,9 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "74.23%",
-    "uptimeMonth": "47.43%",
+    "uptimeDay": "90.38%",
+    "uptimeWeek": "74.35%",
+    "uptimeMonth": "47.45%",
     "uptimeYear": "94.65%",
     "time": 2850,
     "timeDay": 2282,
@@ -452,7 +452,7 @@
     "timeMonth": 5987,
     "timeYear": 2893,
     "dailyMinutesDown": {
-      "2025-08-06": 25,
+      "2025-08-06": 19,
       "2025-08-05": 751,
       "2025-08-04": 299,
       "2025-08-03": 979,
@@ -501,7 +501,8 @@
       "2025-03-18": 23,
       "2025-03-16": 44,
       "2025-03-14": 51,
-      "2025-03-13": 34
+      "2025-03-13": 34,
+      "2025-03-12": 29
     }
   },
   {
@@ -859,7 +860,7 @@
     "timeMonth": 7116,
     "timeYear": 4950,
     "dailyMinutesDown": {
-      "2025-08-06": 715,
+      "2025-08-06": 722,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
