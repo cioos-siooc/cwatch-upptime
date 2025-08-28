@@ -8,22 +8,31 @@ sites:
     url: https://cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
+      - jessybarrette
 
   - name: Cioos National CKAN
     url: https://catalogue.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
+      - jessybarrette
 
   - name: Cioos National CKAN Sitemap
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
+      - jessybarrette
+  
+  - name: CIOOS-SIOOC Guide Fr
+    url: https://guide.cioos.ca/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - jessybarrette
+      
+  - name: CIOOS-SIOOC Guide En
+    url: https://guide.cioos.ca/en
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - jessybarrette
 
   - name: Cioos Atlantic Wordpress
     url: https://cioosatlantic.ca/
@@ -64,29 +73,21 @@ sites:
     url: https://ogsl.ca/en/home-slgo/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
 
   - name: St. Lawrence Global Observatory CKAN
     url: https://catalogue.ogsl.ca/en/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
 
   - name: St. Lawrence Global Observatory CKAN Sitemap
     url: https://catalogue.ogsl.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
 
   - name: St. Lawrence Global Observatory ERDDAP
     url: https://erddap.ogsl.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - ogslbevey
-      - ogsletcax
 
   - name: Cioos Pacific Wordpress
     url: https://cioospacific.ca
@@ -139,11 +140,13 @@ sites:
     url: https://explore.cioos.ca
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
+      - jessybarrette
 
   - name: CIOOS Data Explorer API
     url: https://explore.cioos.ca/api/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
+      - jessybarrette
       
   - name: CIOOS Pacific ERDDAP dataset DFO_MEDS_BUOYS
     url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?STN_ID&time>=now-1week&distinct()
@@ -160,6 +163,7 @@ sites:
     __dangerous__body_down_if_text_missing: 'You need to enable JavaScript to run this app.'
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
+      - jessybarrette
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
