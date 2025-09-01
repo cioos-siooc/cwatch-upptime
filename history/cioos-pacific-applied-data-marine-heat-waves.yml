@@ -1,7 +1,7 @@
 url: https://cioospacific.ca/applied-data/marine-heat-monitor/
-status: down
-code: 415
-responseTime: 70
-lastUpdated: 2025-09-01T05:19:28.168Z
+status: up
+code: 200
+responseTime: 138
+lastUpdated: 2025-09-01T05:30:50.005Z
 startTime: 2023-06-20T18:02:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
