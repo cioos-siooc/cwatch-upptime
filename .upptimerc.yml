@@ -8,31 +8,26 @@ sites:
     url: https://cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - jessybarrette
 
   - name: Cioos National CKAN
     url: https://catalogue.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - jessybarrette
 
   - name: Cioos National CKAN Sitemap
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - jessybarrette
   
   - name: CIOOS-SIOOC Guide Fr
     url: https://guide.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - jessybarrette
       
   - name: CIOOS-SIOOC Guide En
     url: https://guide.cioos.ca/en
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - jessybarrette
 
   - name: Cioos Atlantic Wordpress
     url: https://cioosatlantic.ca/
