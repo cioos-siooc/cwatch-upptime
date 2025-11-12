@@ -1,7 +1,7 @@
 url: https://catalogue.cioosatlantic.ca/
-status: up
+status: degraded
 code: 200
-responseTime: 884
-lastUpdated: 2025-11-12T14:24:43.648Z
+responseTime: 6429
+lastUpdated: 2025-11-12T14:36:08.022Z
 startTime: 2022-03-10T21:49:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
