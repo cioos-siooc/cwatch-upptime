@@ -12,13 +12,13 @@ sites:
 
   - name: Cioos National CKAN
     url: https://catalogue.cioos.ca/
-    maxResponseTime: 5000 # 5 seconds
+    maxResponseTime: 10000 # 10 seconds
     assignees: # Users to assign downtime issues (optional
       - jessybarrette
 
   - name: Cioos National CKAN Sitemap
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
-    maxResponseTime: 5000 # 5 seconds
+    maxResponseTime: 10000 # 10 seconds
     assignees: # Users to assign downtime issues (optional)
       - jessybarrette
   
