@@ -147,7 +147,7 @@ sites:
       - jessybarrette
 
   - name: CIOOS Data Explorer API
-    url: https://explore.cioos.ca/api/
+    url: https://explore.cioos.ca/api/organizations
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - jessybarrette
@@ -174,12 +174,14 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional
       - jessybarrette
+      - tratsimbazafy
       
   - name: Amundsen Science ERDDAP
     url: https://erddap.amundsenscience.com/erddap
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional
       - jessybarrette
+      - tratsimbazafy 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
