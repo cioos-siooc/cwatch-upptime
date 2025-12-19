@@ -14,7 +14,7 @@ sites:
     url: https://catalogue.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     headers:
-      - "X-Uptime-token: $CF_ALLOW_TOKEN"
+      - "x-uptime-token: $CF_ALLOW_TOKEN"
     assignees: # Users to assign downtime issues (optional
       - jessybarrette
 
@@ -22,7 +22,7 @@ sites:
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     headers:
-      - "X-Uptime-token: $CF_ALLOW_TOKEN"
+      - "x-uptime-token: $CF_ALLOW_TOKEN"
     assignees: # Users to assign downtime issues (optional)
       - jessybarrette
   
