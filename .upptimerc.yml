@@ -14,8 +14,7 @@ sites:
     url: https://catalogue.cioos.ca/
     maxResponseTime: 5000 # 5 seconds
     headers:
-      - "CF-Access-Client-Id: $CF_ACCESS_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_ACCESS_CLIENT_SECRET"
+      - "X-Uptime-token: $CF_ALLOW_TOKEN"
     assignees: # Users to assign downtime issues (optional
       - jessybarrette
 
@@ -23,8 +22,7 @@ sites:
     url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     headers:
-      - "CF-Access-Client-Id: $CF_ACCESS_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_ACCESS_CLIENT_SECRET"
+      - "X-Uptime-token: $CF_ALLOW_TOKEN"
     assignees: # Users to assign downtime issues (optional)
       - jessybarrette
   
