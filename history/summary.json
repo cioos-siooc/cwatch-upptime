@@ -58,7 +58,7 @@
     "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.55%",
+    "uptimeMonth": "40.65%",
     "uptimeYear": "82.41%",
     "time": 6351,
     "timeDay": 241,
@@ -362,15 +362,15 @@
     "uptime": "84.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.54%",
-    "uptimeYear": "74.75%",
+    "uptimeMonth": "66.45%",
+    "uptimeYear": "74.74%",
     "time": 783,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 582,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2025-12-26": 1255,
+      "2025-12-26": 1296,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -481,7 +481,7 @@
     "uptimeYear": "99.03%",
     "time": 992,
     "timeDay": 225,
-    "timeWeek": 655,
+    "timeWeek": 703,
     "timeMonth": 979,
     "timeYear": 1062,
     "dailyMinutesDown": {
@@ -706,19 +706,19 @@
     "url": "https://catalogue.ogsl.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "91.24%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "77.22%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "72.26%",
-    "time": 3131,
-    "timeDay": 90,
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "77.20%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "72.27%",
+    "time": 3130,
+    "timeDay": 88,
     "timeWeek": 83,
     "timeMonth": 110,
-    "timeYear": 3241,
+    "timeYear": 3239,
     "dailyMinutesDown": {
-      "2025-12-26": 17,
+      "2025-12-26": 19,
       "2025-12-25": 36,
       "2025-12-22": 875,
       "2025-12-21": 1368,
@@ -855,8 +855,7 @@
       "2025-03-26": 318,
       "2025-03-25": 80,
       "2025-03-24": 81,
-      "2025-03-23": 124,
-      "2025-03-22": 22
+      "2025-03-23": 124
     }
   },
   {
@@ -962,9 +961,9 @@
     "slug": "cioos-pacific-wordpress",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "97.73%",
     "uptimeYear": "99.79%",
     "time": 249,
     "timeDay": 228,
@@ -972,7 +971,6 @@
     "timeMonth": 247,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-12-26": 6,
       "2025-12-21": 29,
       "2025-12-17": 39,
       "2025-12-16": 8,
@@ -999,7 +997,7 @@
       "2025-11-25": 6,
       "2025-11-24": 20,
       "2025-11-23": 18,
-      "2025-11-22": 18
+      "2025-11-22": 26
     }
   },
   {
@@ -1009,9 +1007,9 @@
     "slug": "cioos-pacific-wordpress-login-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.79%",
     "time": 694,
     "timeDay": 729,
@@ -1019,7 +1017,6 @@
     "timeMonth": 567,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-12-26": 6,
       "2025-12-21": 29,
       "2025-12-17": 40,
       "2025-12-16": 8,
@@ -1045,7 +1042,8 @@
       "2025-11-26": 42,
       "2025-11-25": 6,
       "2025-11-24": 20,
-      "2025-11-23": 46
+      "2025-11-23": 46,
+      "2025-11-22": 9
     }
   },
   {
@@ -1055,9 +1053,9 @@
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.79%",
     "time": 46,
     "timeDay": 53,
@@ -1065,7 +1063,6 @@
     "timeMonth": 54,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-12-26": 6,
       "2025-12-21": 29,
       "2025-12-17": 40,
       "2025-12-16": 8,
@@ -1092,7 +1089,7 @@
       "2025-11-25": 6,
       "2025-11-24": 20,
       "2025-11-23": 18,
-      "2025-11-22": 18
+      "2025-11-22": 26
     }
   },
   {
@@ -1121,12 +1118,12 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "97.75%",
-    "uptimeWeek": "90.15%",
+    "uptimeWeek": "90.16%",
     "uptimeMonth": "90.62%",
     "uptimeYear": "99.22%",
     "time": 7035,
     "timeDay": 6674,
-    "timeWeek": 10134,
+    "timeWeek": 10300,
     "timeMonth": 8211,
     "timeYear": 7380,
     "dailyMinutesDown": {
@@ -1167,8 +1164,8 @@
     "uptimeYear": "99.09%",
     "time": 6394,
     "timeDay": 5834,
-    "timeWeek": 8539,
-    "timeMonth": 7784,
+    "timeWeek": 8534,
+    "timeMonth": 7781,
     "timeYear": 6791,
     "dailyMinutesDown": {
       "2025-12-26": 32,
@@ -1269,7 +1266,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 656,
     "timeDay": 449,
     "timeWeek": 616,
@@ -1437,7 +1434,7 @@
     "timeMonth": 7106,
     "timeYear": 6422,
     "dailyMinutesDown": {
-      "2025-12-26": 1257,
+      "2025-12-26": 1298,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
