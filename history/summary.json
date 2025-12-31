@@ -58,7 +58,7 @@
     "uptime": "95.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "51.89%",
+    "uptimeMonth": "51.99%",
     "uptimeYear": "82.41%",
     "time": 6359,
     "timeDay": 310,
@@ -362,15 +362,15 @@
     "uptime": "83.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.89%",
-    "uptimeYear": "73.53%",
+    "uptimeMonth": "51.78%",
+    "uptimeYear": "73.52%",
     "time": 785,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 602,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-12-31": 475,
+      "2025-12-31": 522,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -524,7 +524,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.06%",
+    "uptimeMonth": "92.17%",
     "uptimeYear": "97.26%",
     "time": 313,
     "timeDay": 147,
@@ -678,7 +678,7 @@
     "uptimeMonth": "92.09%",
     "uptimeYear": "98.60%",
     "time": 3235,
-    "timeDay": 188,
+    "timeDay": 192,
     "timeWeek": 163,
     "timeMonth": 398,
     "timeYear": 3317,
@@ -714,19 +714,19 @@
     "url": "https://catalogue.ogsl.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "91.27%",
-    "uptimeDay": "75.70%",
-    "uptimeWeek": "92.18%",
+    "uptimeDay": "75.53%",
+    "uptimeWeek": "92.16%",
     "uptimeMonth": "91.18%",
     "uptimeYear": "72.25%",
-    "time": 3002,
+    "time": 3001,
     "timeDay": 69,
     "timeWeek": 76,
     "timeMonth": 88,
-    "timeYear": 3101,
+    "timeYear": 3100,
     "dailyMinutesDown": {
-      "2025-12-31": 324,
+      "2025-12-31": 326,
       "2025-12-30": 26,
       "2025-12-29": 77,
       "2025-12-28": 92,
@@ -862,8 +862,7 @@
       "2025-06-18": 32,
       "2025-06-09": 772,
       "2025-06-08": 1400,
-      "2025-06-02": 16,
-      "2025-04-02": 19
+      "2025-06-02": 16
     }
   },
   {
@@ -969,9 +968,9 @@
     "slug": "cioos-pacific-wordpress",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "99.79%",
     "time": 247,
     "timeDay": 211,
@@ -979,7 +978,6 @@
     "timeMonth": 242,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-12-31": 6,
       "2025-12-29": 33,
       "2025-12-28": 17,
       "2025-12-21": 29,
@@ -1007,7 +1005,8 @@
       "2025-11-26": 32,
       "2025-11-25": 6,
       "2025-11-24": 20,
-      "2025-11-23": 18
+      "2025-11-23": 18,
+      "2025-11-22": 9
     }
   },
   {
@@ -1017,9 +1016,9 @@
     "slug": "cioos-pacific-wordpress-login-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.79%",
     "time": 686,
     "timeDay": 581,
@@ -1027,7 +1026,6 @@
     "timeMonth": 568,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-12-31": 6,
       "2025-12-29": 33,
       "2025-12-28": 17,
       "2025-12-21": 29,
@@ -1055,7 +1053,7 @@
       "2025-11-26": 42,
       "2025-11-25": 6,
       "2025-11-24": 20,
-      "2025-11-23": 12
+      "2025-11-23": 18
     }
   },
   {
@@ -1065,9 +1063,9 @@
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.79%",
     "time": 46,
     "timeDay": 47,
@@ -1075,7 +1073,6 @@
     "timeMonth": 51,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-12-31": 6,
       "2025-12-29": 33,
       "2025-12-28": 17,
       "2025-12-21": 29,
@@ -1103,7 +1100,8 @@
       "2025-11-26": 32,
       "2025-11-25": 6,
       "2025-11-24": 20,
-      "2025-11-23": 18
+      "2025-11-23": 18,
+      "2025-11-22": 9
     }
   },
   {
@@ -1138,7 +1136,7 @@
     "time": 7170,
     "timeDay": 9159,
     "timeWeek": 8594,
-    "timeMonth": 8576,
+    "timeMonth": 8597,
     "timeYear": 7409,
     "dailyMinutesDown": {
       "2025-12-31": 59,
@@ -1449,7 +1447,7 @@
     "timeMonth": 6416,
     "timeYear": 6432,
     "dailyMinutesDown": {
-      "2025-12-31": 477,
+      "2025-12-31": 524,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
