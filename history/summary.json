@@ -14,7 +14,7 @@
     "timeDay": 1776,
     "timeWeek": 1738,
     "timeMonth": 1360,
-    "timeYear": 2524,
+    "timeYear": 2526,
     "dailyMinutesDown": {
       "2025-10-08": 9,
       "2025-09-02": 6,
@@ -56,9 +56,9 @@
     "slug": "cioos-national-ckan",
     "status": "up",
     "uptime": "95.39%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "57.87%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "57.95%",
     "uptimeYear": "82.40%",
     "time": 6208,
     "timeDay": 3494,
@@ -66,7 +66,7 @@
     "timeMonth": 1920,
     "timeYear": 6532,
     "dailyMinutesDown": {
-      "2026-01-02": 49,
+      "2026-01-02": 37,
       "2025-12-31": 60,
       "2025-12-28": 17,
       "2025-12-16": 1218,
@@ -145,7 +145,8 @@
       "2025-08-11": 70,
       "2025-08-09": 1038,
       "2025-08-08": 860,
-      "2025-08-07": 107
+      "2025-08-07": 107,
+      "2025-08-06": 18
     }
   },
   {
@@ -155,9 +156,9 @@
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
     "uptime": "96.56%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "89.04%",
     "time": 5419,
     "timeDay": 2738,
@@ -165,7 +166,7 @@
     "timeMonth": 774,
     "timeYear": 5719,
     "dailyMinutesDown": {
-      "2026-01-02": 48,
+      "2026-01-02": 36,
       "2025-12-31": 49,
       "2025-10-09": 71,
       "2025-10-08": 1440,
@@ -219,7 +220,7 @@
       "2025-08-04": 64,
       "2025-08-03": 762,
       "2025-08-01": 528,
-      "2025-07-31": 552
+      "2025-07-31": 568
     }
   },
   {
@@ -319,18 +320,19 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "97.72%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.99%",
     "time": 2100,
-    "timeDay": 486,
-    "timeWeek": 1129,
-    "timeMonth": 1646,
-    "timeYear": 2161,
+    "timeDay": 414,
+    "timeWeek": 1073,
+    "timeMonth": 1635,
+    "timeYear": 2160,
     "dailyMinutesDown": {
+      "2026-01-02": 1,
       "2025-12-31": 16,
       "2025-12-21": 79,
       "2025-12-20": 328,
@@ -354,7 +356,7 @@
       "2025-11-11": 692,
       "2025-11-10": 54,
       "2025-11-06": 20,
-      "2025-11-05": 258
+      "2025-11-05": 77
     }
   },
   {
@@ -363,10 +365,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.registry.cioosatlantic.ca.ico",
     "slug": "vitality-ckan",
     "status": "down",
-    "uptime": "83.62%",
+    "uptime": "83.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.65%",
+    "uptimeMonth": "45.60%",
     "uptimeYear": "73.44%",
     "time": 786,
     "timeDay": 0,
@@ -374,7 +376,7 @@
     "timeMonth": 617,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2026-01-02": 327,
+      "2026-01-02": 350,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -481,19 +483,19 @@
     "url": "https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 948,
-    "timeDay": 1251,
-    "timeWeek": 989,
-    "timeMonth": 1032,
-    "timeYear": 1066,
+    "timeDay": 956,
+    "timeWeek": 948,
+    "timeMonth": 1023,
+    "timeYear": 1065,
     "dailyMinutesDown": {
-      "2026-01-02": 22,
+      "2026-01-02": 23,
       "2025-12-21": 36,
       "2025-12-20": 28,
       "2025-12-10": 9,
@@ -517,7 +519,7 @@
       "2025-11-05": 318,
       "2025-11-03": 33,
       "2025-11-02": 56,
-      "2025-11-01": 28
+      "2025-11-01": 18
     }
   },
   {
@@ -529,7 +531,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.30%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "97.26%",
     "time": 313,
     "timeDay": 63,
@@ -728,7 +730,7 @@
     "uptimeYear": "72.80%",
     "time": 2925,
     "timeDay": 88,
-    "timeWeek": 77,
+    "timeWeek": 76,
     "timeMonth": 86,
     "timeYear": 3066,
     "dailyMinutesDown": {
@@ -1313,7 +1315,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.pac-dev1.cioos.org.ico",
     "slug": "cioos-pacific-dev-ckan",
     "status": "up",
-    "uptime": "94.62%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "50.37%",
@@ -1450,7 +1452,7 @@
     "timeMonth": 6574,
     "timeYear": 6443,
     "dailyMinutesDown": {
-      "2026-01-02": 329,
+      "2026-01-02": 352,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
