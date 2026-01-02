@@ -54,19 +54,19 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
+    "status": "degraded",
     "uptime": "95.39%",
-    "uptimeDay": "95.88%",
+    "uptimeDay": "95.84%",
     "uptimeWeek": "98.64%",
-    "uptimeMonth": "58.70%",
-    "uptimeYear": "82.40%",
-    "time": 6217,
-    "timeDay": 5608,
-    "timeWeek": 3640,
-    "timeMonth": 2458,
-    "timeYear": 6533,
+    "uptimeMonth": "58.76%",
+    "uptimeYear": "82.41%",
+    "time": 6220,
+    "timeDay": 6149,
+    "timeWeek": 3820,
+    "timeMonth": 2587,
+    "timeYear": 6536,
     "dailyMinutesDown": {
-      "2026-01-02": 60,
+      "2026-01-02": 61,
       "2025-12-31": 60,
       "2025-12-28": 17,
       "2025-12-16": 1218,
@@ -145,7 +145,7 @@
       "2025-08-11": 70,
       "2025-08-09": 1038,
       "2025-08-08": 860,
-      "2025-08-07": 107
+      "2025-08-07": 27
     }
   },
   {
@@ -153,19 +153,19 @@
     "url": "https://catalogue.cioos.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "96.56%",
-    "uptimeDay": "95.55%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "89.04%",
+    "uptimeYear": "89.05%",
     "time": 5412,
-    "timeDay": 2811,
-    "timeWeek": 1693,
-    "timeMonth": 1114,
-    "timeYear": 5705,
+    "timeDay": 2667,
+    "timeWeek": 1660,
+    "timeMonth": 1101,
+    "timeYear": 5703,
     "dailyMinutesDown": {
-      "2026-01-02": 64,
+      "2026-01-02": 65,
       "2025-12-31": 49,
       "2025-10-09": 71,
       "2025-10-08": 1440,
@@ -219,7 +219,7 @@
       "2025-08-04": 64,
       "2025-08-03": 762,
       "2025-08-01": 528,
-      "2025-07-31": 552
+      "2025-07-31": 512
     }
   },
   {
@@ -366,7 +366,7 @@
     "uptime": "83.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.80%",
+    "uptimeMonth": "44.74%",
     "uptimeYear": "73.44%",
     "time": 786,
     "timeDay": 0,
@@ -374,7 +374,7 @@
     "timeMonth": 617,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2026-01-02": 699,
+      "2026-01-02": 726,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -483,9 +483,9 @@
     "slug": "cioos-atlantic-ckan-sitemap",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.02%",
     "time": 958,
     "timeDay": 1157,
@@ -493,7 +493,7 @@
     "timeMonth": 1044,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2026-01-02": 29,
+      "2026-01-02": 22,
       "2025-12-21": 36,
       "2025-12-20": 28,
       "2025-12-10": 9,
@@ -517,7 +517,7 @@
       "2025-11-05": 318,
       "2025-11-03": 33,
       "2025-11-02": 56,
-      "2025-11-01": 18
+      "2025-11-01": 28
     }
   },
   {
@@ -529,7 +529,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "97.26%",
     "time": 313,
     "timeDay": 63,
@@ -1451,7 +1451,7 @@
     "timeMonth": 6574,
     "timeYear": 6443,
     "dailyMinutesDown": {
-      "2026-01-02": 701,
+      "2026-01-02": 728,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
