@@ -54,19 +54,19 @@
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan",
-    "status": "up",
+    "status": "degraded",
     "uptime": "95.40%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "60.02%",
-    "uptimeYear": "82.42%",
-    "time": 6240,
-    "timeDay": 3926,
-    "timeWeek": 3451,
-    "timeMonth": 2614,
-    "timeYear": 6503,
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "60.05%",
+    "uptimeYear": "82.44%",
+    "time": 6243,
+    "timeDay": 4021,
+    "timeWeek": 3506,
+    "timeMonth": 2660,
+    "timeYear": 6504,
     "dailyMinutesDown": {
-      "2026-01-02": 122,
+      "2026-01-02": 123,
       "2025-12-31": 60,
       "2025-12-28": 17,
       "2025-12-16": 1218,
@@ -144,7 +144,7 @@
       "2025-08-12": 1000,
       "2025-08-11": 70,
       "2025-08-09": 1038,
-      "2025-08-08": 811
+      "2025-08-08": 681
     }
   },
   {
@@ -153,7 +153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "92.18%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "99.63%",
@@ -366,7 +366,7 @@
     "uptime": "83.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.34%",
+    "uptimeMonth": "43.31%",
     "uptimeYear": "73.44%",
     "time": 786,
     "timeDay": 0,
@@ -374,7 +374,7 @@
     "timeMonth": 617,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2026-01-02": 1340,
+      "2026-01-02": 1353,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -1453,7 +1453,7 @@
     "timeMonth": 6543,
     "timeYear": 6443,
     "dailyMinutesDown": {
-      "2026-01-02": 1343,
+      "2026-01-02": 1355,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -1762,9 +1762,9 @@
     "slug": "cioos-pacific-erddap-dataset-eccc-msc-buoys",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.80%",
     "time": 1961,
     "timeDay": 1569,
@@ -1772,7 +1772,6 @@
     "timeMonth": 651,
     "timeYear": 2055,
     "dailyMinutesDown": {
-      "2026-01-02": 9,
       "2025-12-28": 31,
       "2025-12-16": 20,
       "2025-12-14": 8,
@@ -1809,7 +1808,7 @@
       "2025-10-21": 33,
       "2025-10-20": 5,
       "2025-10-18": 9,
-      "2025-10-15": 15
+      "2025-10-15": 20
     }
   },
   {
