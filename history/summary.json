@@ -56,9 +56,9 @@
     "slug": "cioos-national-ckan",
     "status": "up",
     "uptime": "95.48%",
-    "uptimeDay": "84.08%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "60.68%",
+    "uptimeDay": "84.95%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "60.73%",
     "uptimeYear": "82.75%",
     "time": 6266,
     "timeDay": 4118,
@@ -66,7 +66,7 @@
     "timeMonth": 2873,
     "timeYear": 6493,
     "dailyMinutesDown": {
-      "2026-01-03": 117,
+      "2026-01-03": 104,
       "2026-01-02": 151,
       "2025-12-31": 60,
       "2025-12-28": 17,
@@ -143,7 +143,7 @@
       "2025-08-14": 931,
       "2025-08-13": 654,
       "2025-08-12": 1000,
-      "2025-08-11": 37
+      "2025-08-11": 53
     }
   },
   {
@@ -152,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioos.ca.ico",
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "89.83%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "89.25%",
+    "uptime": "96.62%",
+    "uptimeDay": "90.70%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "89.23%",
     "time": 5470,
     "timeDay": 3456,
     "timeWeek": 2668,
     "timeMonth": 2056,
     "timeYear": 5678,
     "dailyMinutesDown": {
-      "2026-01-03": 51,
+      "2026-01-03": 38,
       "2026-01-02": 132,
       "2025-12-31": 49,
       "2025-10-09": 71,
@@ -216,7 +216,7 @@
       "2025-08-06": 59,
       "2025-08-05": 21,
       "2025-08-04": 64,
-      "2025-08-03": 595
+      "2025-08-03": 762
     }
   },
   {
@@ -316,19 +316,19 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.25%",
-    "uptimeWeek": "98.74%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "98.98%",
-    "time": 2076,
-    "timeDay": 1970,
-    "timeWeek": 1772,
-    "timeMonth": 1750,
-    "timeYear": 2156,
+    "time": 2074,
+    "timeDay": 1923,
+    "timeWeek": 1741,
+    "timeMonth": 1740,
+    "timeYear": 2155,
     "dailyMinutesDown": {
-      "2026-01-03": 80,
+      "2026-01-03": 81,
       "2026-01-02": 32,
       "2025-12-31": 16,
       "2025-12-21": 79,
@@ -352,8 +352,7 @@
       "2025-11-12": 270,
       "2025-11-11": 692,
       "2025-11-10": 54,
-      "2025-11-06": 20,
-      "2025-11-05": 6
+      "2025-11-06": 20
     }
   },
   {
@@ -365,7 +364,7 @@
     "uptime": "83.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.34%",
+    "uptimeMonth": "42.32%",
     "uptimeYear": "73.44%",
     "time": 786,
     "timeDay": 0,
@@ -373,7 +372,7 @@
     "timeMonth": 601,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2026-01-03": 336,
+      "2026-01-03": 344,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -480,19 +479,19 @@
     "url": "https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.02%",
     "time": 979,
-    "timeDay": 1560,
-    "timeWeek": 1348,
-    "timeMonth": 1164,
-    "timeYear": 1081,
+    "timeDay": 1511,
+    "timeWeek": 1323,
+    "timeMonth": 1156,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2026-01-03": 26,
+      "2026-01-03": 27,
       "2026-01-02": 22,
       "2025-12-21": 36,
       "2025-12-20": 28,
@@ -516,8 +515,7 @@
       "2025-11-06": 30,
       "2025-11-05": 318,
       "2025-11-03": 33,
-      "2025-11-02": 56,
-      "2025-11-01": 18
+      "2025-11-02": 56
     }
   },
   {
@@ -722,9 +720,9 @@
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
     "status": "up",
     "uptime": "91.47%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "92.49%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.60%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "72.80%",
     "time": 2926,
     "timeDay": 170,
@@ -732,7 +730,6 @@
     "timeMonth": 87,
     "timeYear": 3070,
     "dailyMinutesDown": {
-      "2026-01-03": 11,
       "2026-01-01": 15,
       "2025-12-31": 401,
       "2025-12-30": 26,
@@ -864,7 +861,8 @@
       "2025-07-06": 55,
       "2025-07-05": 16,
       "2025-07-04": 49,
-      "2025-07-03": 58
+      "2025-07-03": 58,
+      "2025-07-02": 30
     }
   },
   {
@@ -976,7 +974,7 @@
     "uptimeYear": "99.78%",
     "time": 247,
     "timeDay": 315,
-    "timeWeek": 249,
+    "timeWeek": 252,
     "timeMonth": 249,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -1025,7 +1023,7 @@
     "uptimeYear": "99.78%",
     "time": 683,
     "timeDay": 563,
-    "timeWeek": 529,
+    "timeWeek": 539,
     "timeMonth": 578,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -1141,7 +1139,7 @@
     "uptimeYear": "99.07%",
     "time": 7082,
     "timeDay": 12054,
-    "timeWeek": 8939,
+    "timeWeek": 8810,
     "timeMonth": 8879,
     "timeYear": 7423,
     "dailyMinutesDown": {
@@ -1179,12 +1177,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "75.86%",
-    "uptimeWeek": "86.90%",
+    "uptimeWeek": "86.97%",
     "uptimeMonth": "89.92%",
     "uptimeYear": "99.16%",
     "time": 6461,
     "timeDay": 9037,
-    "timeWeek": 8395,
+    "timeWeek": 8495,
     "timeMonth": 8364,
     "timeYear": 6851,
     "dailyMinutesDown": {
@@ -1455,7 +1453,7 @@
     "timeMonth": 6545,
     "timeYear": 6443,
     "dailyMinutesDown": {
-      "2026-01-03": 338,
+      "2026-01-03": 346,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
