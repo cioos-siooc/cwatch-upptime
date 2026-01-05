@@ -1,7 +1,7 @@
 url: https://cioos.ca/
-status: up
+status: degraded
 code: 200
-responseTime: 2625
-lastUpdated: 2026-01-05T19:59:54.185Z
+responseTime: 17082
+lastUpdated: 2026-01-05T23:48:51.591Z
 startTime: 2022-03-10T21:49:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
