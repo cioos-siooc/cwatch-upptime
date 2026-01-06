@@ -210,6 +210,7 @@ status-website:
     content: "dark light"
   - name: "robots"
     content: "noindex"
+  customHeadHtml: "<script defer data-domain="all.cioos.ca" src="https://plausible.cioos.ca/js/script.file-downloads.outbound-links.js"></script><script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
