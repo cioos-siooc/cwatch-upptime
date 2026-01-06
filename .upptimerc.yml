@@ -194,8 +194,8 @@ status-website:
   graphBackgroundColor: "#152F37"
   graphBorderColor: "#F3F0EC"
   name: ""
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/cioos-siooc/cwatch-upptim). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**CIOOS** Service Status Monitor"
+  introMessage: This page monitors the uptime and performance of web services for the Canadian Integrated Ocean Observing System (CIOOS) and its regional associations, including CIOOS Atlantic, CIOOS Pacific, and St. Lawrence Global Observatory. Real-time data is automatically collected from our [GitHub repository](https://github.com/cioos-siooc/cwatch-upptime) using GitHub Actions.
   navbar:
     - title: Home
       href: https://cioos.ca
