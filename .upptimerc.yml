@@ -190,18 +190,13 @@ status-website:
   baseUrl: /cwatch-upptime
   logoUrl: https://cioos-siooc.github.io/cwatch-upptime/cioos-national_EN_FR.svg
   themeUrl: https://cioos-siooc.github.io/cwatch-upptime/cioos.css
-  name: CIOOS Upptime
+  faviconSvg: https://cioos-siooc.github.io/cwatch-upptime/ICON_color.svg
+  name: "Status Page"
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/cioos-siooc/cwatch-upptim). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Home
       href: https://cioos.ca
-    - titlte: Pacific
-      href: https://cioospacific.ca
-    - title: St. Lawrence
-      href: https://ogsl.ca
-    - title: Atlantic
-      href: https://cioosatlantic.ca
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: ocean
