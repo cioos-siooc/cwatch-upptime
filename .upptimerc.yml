@@ -188,7 +188,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /cwatch-upptime
-  logoUrl: https://cioos-siooc.github.io/cwatch-upptime/cioos-national_EN_FR.svg
+  logoUrl: https://cioos-siooc.github.io/cwatch-upptime/cioos-national_EN.svg
   themeUrl: https://cioos-siooc.github.io/cwatch-upptime/cioos.css
   faviconSvg: https://cioos-siooc.github.io/cwatch-upptime/ICON_color.svg
   name: "Status Page"
