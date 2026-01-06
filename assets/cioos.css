@@ -1,0 +1,9 @@
+:root {
+    --body-background-color: #152F37;
+    --body-text-color: white;
+    --card-background-color: #52A79B;
+    --nav-background-color: #52A79B;
+    --nav-border-bottom-color: #F3F0EC;
+    --nav-current-border-bottom-color: #1abc9c;
+    --card-border-color: #F3F0EC;
+}
