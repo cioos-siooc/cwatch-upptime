@@ -1,7 +1,7 @@
 url: https://catalogue.amundsenscience.com/
-status: degraded
-code: 200
-responseTime: 7819
-lastUpdated: 2026-01-10T17:00:59.294Z
+status: down
+code: 502
+responseTime: 242
+lastUpdated: 2026-01-10T17:38:03.984Z
 startTime: 2025-12-16T21:56:44.875Z
 generator: Upptime <https://github.com/upptime/upptime>
