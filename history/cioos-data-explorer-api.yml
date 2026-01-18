@@ -1,7 +1,7 @@
 url: https://explore.cioos.ca/api/organizations
-status: up
+status: degraded
 code: 200
-responseTime: 3187
-lastUpdated: 2026-01-18T06:47:01.733Z
+responseTime: 15632
+lastUpdated: 2026-01-18T09:55:04.692Z
 startTime: 2022-03-10T22:20:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
