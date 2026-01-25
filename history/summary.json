@@ -62,7 +62,7 @@
     "status": "up",
     "uptime": "95.42%",
     "uptimeDay": "96.04%",
-    "uptimeWeek": "66.19%",
+    "uptimeWeek": "66.27%",
     "uptimeMonth": "79.94%",
     "uptimeYear": "82.22%",
     "time": 6392,
@@ -160,9 +160,9 @@
     "slug": "cioos-national-ckan-sitemap",
     "status": "up",
     "uptime": "96.58%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "66.04%",
-    "uptimeMonth": "80.18%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "66.18%",
+    "uptimeMonth": "80.19%",
     "uptimeYear": "88.87%",
     "time": 5587,
     "timeDay": 2815,
@@ -170,7 +170,7 @@
     "timeMonth": 4627,
     "timeYear": 5595,
     "dailyMinutesDown": {
-      "2026-01-25": 23,
+      "2026-01-25": 17,
       "2026-01-23": 522,
       "2026-01-22": 1168,
       "2026-01-21": 556,
@@ -222,7 +222,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1401,
       "2025-09-04": 705,
-      "2025-09-03": 104
+      "2025-09-03": 116
     }
   },
   {
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2026-01-25": 1185,
+      "2026-01-25": 1193,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -720,7 +720,7 @@
     "time": 3186,
     "timeDay": 194,
     "timeWeek": 4600,
-    "timeMonth": 837,
+    "timeMonth": 842,
     "timeYear": 3332,
     "dailyMinutesDown": {
       "2026-01-20": 65,
@@ -1018,18 +1018,19 @@
     "url": "https://cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.98%",
-    "uptimeMonth": "94.83%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "79.94%",
+    "uptimeMonth": "94.82%",
     "uptimeYear": "99.39%",
     "time": 243,
-    "timeDay": 165,
+    "timeDay": 161,
     "timeWeek": 164,
     "timeMonth": 224,
-    "timeYear": 241,
+    "timeYear": 240,
     "dailyMinutesDown": {
+      "2026-01-25": 4,
       "2026-01-24": 16,
       "2026-01-23": 36,
       "2026-01-21": 42,
@@ -1066,7 +1067,7 @@
       "2025-11-30": 39,
       "2025-11-29": 37,
       "2025-11-28": 72,
-      "2025-11-27": 24
+      "2025-11-27": 16
     }
   },
   {
@@ -1074,18 +1075,19 @@
     "url": "https://cioospacific.ca/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.74%",
-    "time": 666,
-    "timeDay": 679,
-    "timeWeek": 585,
-    "timeMonth": 567,
-    "timeYear": 634,
+    "time": 665,
+    "timeDay": 601,
+    "timeWeek": 574,
+    "timeMonth": 565,
+    "timeYear": 633,
     "dailyMinutesDown": {
+      "2026-01-25": 4,
       "2026-01-24": 16,
       "2026-01-23": 36,
       "2026-01-21": 42,
@@ -1122,7 +1124,7 @@
       "2025-11-30": 39,
       "2025-11-29": 37,
       "2025-11-28": 72,
-      "2025-11-27": 24
+      "2025-11-27": 16
     }
   },
   {
@@ -1130,18 +1132,19 @@
     "url": "https://cioospacific.ca/applied-data/marine-heat-monitor/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.74%",
     "time": 48,
-    "timeDay": 71,
+    "timeDay": 68,
     "timeWeek": 59,
-    "timeMonth": 59,
+    "timeMonth": 58,
     "timeYear": 51,
     "dailyMinutesDown": {
+      "2026-01-25": 4,
       "2026-01-24": 16,
       "2026-01-23": 36,
       "2026-01-21": 42,
@@ -1177,7 +1180,7 @@
       "2025-11-30": 39,
       "2025-11-29": 37,
       "2025-11-28": 72,
-      "2025-11-27": 30
+      "2025-11-27": 24
     }
   },
   {
@@ -1203,19 +1206,19 @@
     "url": "https://catalogue.cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "43.90%",
-    "uptimeWeek": "81.01%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "98.82%",
-    "time": 7371,
-    "timeDay": 8470,
+    "uptimeDay": "43.72%",
+    "uptimeWeek": "80.98%",
+    "uptimeMonth": "85.94%",
+    "uptimeYear": "98.83%",
+    "time": 7373,
+    "timeDay": 8445,
     "timeWeek": 8831,
     "timeMonth": 8848,
     "timeYear": 7588,
     "dailyMinutesDown": {
-      "2026-01-25": 637,
+      "2026-01-25": 640,
       "2026-01-24": 314,
       "2026-01-23": 292,
       "2026-01-22": 212,
@@ -1243,7 +1246,7 @@
       "2025-12-30": 147,
       "2025-12-29": 222,
       "2025-12-28": 228,
-      "2025-12-27": 331
+      "2025-12-27": 298
     }
   },
   {
@@ -1402,7 +1405,7 @@
     "uptime": "94.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.34%",
+    "uptimeMonth": "70.32%",
     "uptimeYear": "83.88%",
     "time": 485,
     "timeDay": 0,
@@ -1410,7 +1413,7 @@
     "timeMonth": 440,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2026-01-25": 1187,
+      "2026-01-25": 1195,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1516,7 +1519,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.88%",
     "time": 286,
@@ -1554,7 +1557,7 @@
     "timeMonth": 7205,
     "timeYear": 6609,
     "dailyMinutesDown": {
-      "2026-01-25": 1187,
+      "2026-01-25": 1195,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
