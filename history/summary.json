@@ -256,19 +256,19 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.67%",
-    "uptimeDay": "48.80%",
-    "uptimeWeek": "70.09%",
+    "uptimeDay": "48.71%",
+    "uptimeWeek": "70.08%",
     "uptimeMonth": "86.74%",
     "uptimeYear": "98.73%",
     "time": 2331,
-    "timeDay": 3557,
-    "timeWeek": 4021,
-    "timeMonth": 3259,
-    "timeYear": 2434,
+    "timeDay": 3601,
+    "timeWeek": 4034,
+    "timeMonth": 3266,
+    "timeYear": 2436,
     "dailyMinutesDown": {
-      "2026-01-26": 683,
+      "2026-01-26": 684,
       "2026-01-25": 73,
       "2026-01-24": 464,
       "2026-01-23": 703,
@@ -291,7 +291,7 @@
       "2025-12-09": 15,
       "2025-12-08": 280,
       "2025-12-07": 7,
-      "2025-12-06": 81
+      "2025-12-06": 74
     }
   },
   {
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2026-01-26": 1315,
+      "2026-01-26": 1321,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -438,19 +438,19 @@
     "url": "https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan-sitemap",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "57.55%",
-    "uptimeWeek": "73.72%",
-    "uptimeMonth": "87.81%",
+    "uptimeDay": "57.46%",
+    "uptimeWeek": "73.71%",
+    "uptimeMonth": "87.80%",
     "uptimeYear": "98.73%",
-    "time": 1364,
-    "timeDay": 3283,
-    "timeWeek": 3167,
-    "timeMonth": 2472,
-    "timeYear": 1466,
+    "time": 1369,
+    "timeDay": 3367,
+    "timeWeek": 3195,
+    "timeMonth": 2487,
+    "timeYear": 1471,
     "dailyMinutesDown": {
-      "2026-01-26": 568,
+      "2026-01-26": 569,
       "2026-01-25": 62,
       "2026-01-24": 454,
       "2026-01-23": 640,
@@ -475,7 +475,7 @@
       "2025-12-02": 20,
       "2025-11-28": 9,
       "2025-11-19": 853,
-      "2025-11-18": 52
+      "2025-11-18": 43
     }
   },
   {
@@ -952,9 +952,9 @@
     "slug": "cioos-pacific-wordpress",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "84.43%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "84.57%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "99.39%",
     "time": 242,
     "timeDay": 142,
@@ -962,7 +962,7 @@
     "timeMonth": 220,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-01-26": 23,
+      "2026-01-26": 15,
       "2026-01-24": 16,
       "2026-01-23": 36,
       "2026-01-21": 42,
@@ -999,7 +999,7 @@
       "2025-11-30": 39,
       "2025-11-29": 37,
       "2025-11-28": 72,
-      "2025-11-27": 10
+      "2025-11-27": 16
     }
   },
   {
@@ -1009,9 +1009,9 @@
     "slug": "cioos-pacific-wordpress-login-page",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.74%",
     "time": 664,
     "timeDay": 547,
@@ -1019,7 +1019,7 @@
     "timeMonth": 561,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-01-26": 23,
+      "2026-01-26": 15,
       "2026-01-24": 16,
       "2026-01-23": 36,
       "2026-01-21": 42,
@@ -1056,7 +1056,7 @@
       "2025-11-30": 39,
       "2025-11-29": 37,
       "2025-11-28": 72,
-      "2025-11-27": 10
+      "2025-11-27": 16
     }
   },
   {
@@ -1066,9 +1066,9 @@
     "slug": "cioos-pacific-applied-data-marine-heat-waves",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.74%",
     "time": 49,
     "timeDay": 51,
@@ -1076,7 +1076,7 @@
     "timeMonth": 59,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2026-01-26": 23,
+      "2026-01-26": 15,
       "2026-01-24": 16,
       "2026-01-23": 36,
       "2026-01-21": 42,
@@ -1112,7 +1112,7 @@
       "2025-11-30": 39,
       "2025-11-29": 37,
       "2025-11-28": 72,
-      "2025-11-27": 16
+      "2025-11-27": 24
     }
   },
   {
@@ -1335,7 +1335,7 @@
     "uptime": "94.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.76%",
+    "uptimeMonth": "66.75%",
     "uptimeYear": "83.58%",
     "time": 485,
     "timeDay": 0,
@@ -1343,7 +1343,7 @@
     "timeMonth": 444,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2026-01-26": 1317,
+      "2026-01-26": 1323,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -1488,7 +1488,7 @@
     "timeMonth": 7254,
     "timeYear": 6614,
     "dailyMinutesDown": {
-      "2026-01-26": 1317,
+      "2026-01-26": 1323,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
