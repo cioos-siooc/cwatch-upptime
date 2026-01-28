@@ -1,7 +1,7 @@
 url: https://cioospacific.ca/wp-admin/
-status: up
-code: 200
-responseTime: 1257
-lastUpdated: 2026-01-27T23:08:26.907Z
+status: down
+code: 415
+responseTime: 52
+lastUpdated: 2026-01-28T00:00:18.839Z
 startTime: 2024-05-29T05:23:15.437Z
 generator: Upptime <https://github.com/upptime/upptime>
