@@ -306,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-02-01": 495,
+      "2026-02-01": 509,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -640,19 +640,19 @@
     "url": "https://catalogue.ogsl.ca/en/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "92.30%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "92.29%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "98.10%",
     "time": 3187,
-    "timeDay": 2862,
-    "timeWeek": 994,
-    "timeMonth": 1762,
-    "timeYear": 3331,
+    "timeDay": 2178,
+    "timeWeek": 916,
+    "timeMonth": 1748,
+    "timeYear": 3330,
     "dailyMinutesDown": {
-      "2026-02-01": 44,
+      "2026-02-01": 46,
       "2026-01-29": 732,
       "2026-01-20": 65,
       "2026-01-19": 61,
@@ -687,7 +687,7 @@
       "2025-11-03": 705,
       "2025-10-20": 888,
       "2025-10-19": 661,
-      "2025-10-18": 153
+      "2025-10-18": 118
     }
   },
   {
@@ -695,18 +695,19 @@
     "url": "https://catalogue.ogsl.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "91.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.54%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "72.54%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "72.55%",
     "time": 2999,
-    "timeDay": 92,
-    "timeWeek": 219,
+    "timeDay": 60,
+    "timeWeek": 200,
     "timeMonth": 2516,
-    "timeYear": 3118,
+    "timeYear": 3117,
     "dailyMinutesDown": {
+      "2026-02-01": 2,
       "2026-01-29": 732,
       "2026-01-27": 20,
       "2026-01-23": 51,
@@ -846,7 +847,7 @@
       "2025-07-10": 657,
       "2025-07-09": 1226,
       "2025-07-08": 840,
-      "2025-07-07": 129
+      "2025-07-07": 108
     }
   },
   {
@@ -1147,9 +1148,9 @@
     "slug": "cioos-pacific-ckan",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "22.13%",
-    "uptimeWeek": "52.00%",
-    "uptimeMonth": "86.54%",
+    "uptimeDay": "24.07%",
+    "uptimeWeek": "52.28%",
+    "uptimeMonth": "86.50%",
     "uptimeYear": "98.88%",
     "time": 7363,
     "timeDay": 3671,
@@ -1157,7 +1158,7 @@
     "timeMonth": 8398,
     "timeYear": 7598,
     "dailyMinutesDown": {
-      "2026-02-01": 291,
+      "2026-02-01": 277,
       "2026-01-31": 1241,
       "2026-01-30": 925,
       "2026-01-29": 707,
@@ -1167,7 +1168,7 @@
       "2026-01-25": 661,
       "2026-01-24": 314,
       "2026-01-23": 292,
-      "2026-01-22": 126
+      "2026-01-22": 158
     }
   },
   {
@@ -1177,17 +1178,17 @@
     "slug": "cioos-pacific-ckan-sitemap",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "22.72%",
-    "uptimeWeek": "60.89%",
-    "uptimeMonth": "88.04%",
+    "uptimeDay": "24.66%",
+    "uptimeWeek": "61.10%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "99.00%",
     "time": 6751,
     "timeDay": 2936,
-    "timeWeek": 6388,
+    "timeWeek": 6330,
     "timeMonth": 7350,
     "timeYear": 6965,
     "dailyMinutesDown": {
-      "2026-02-01": 309,
+      "2026-02-01": 295,
       "2026-01-31": 1135,
       "2026-01-30": 683,
       "2026-01-29": 462,
@@ -1202,7 +1203,7 @@
       "2026-01-20": 221,
       "2026-01-19": 114,
       "2026-01-18": 16,
-      "2026-01-17": 52
+      "2026-01-17": 102
     }
   },
   {
@@ -1315,15 +1316,15 @@
     "uptime": "93.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.91%",
-    "uptimeYear": "82.10%",
+    "uptimeMonth": "48.87%",
+    "uptimeYear": "82.09%",
     "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 448,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-02-01": 497,
+      "2026-02-01": 511,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1476,7 +1477,7 @@
     "timeMonth": 7818,
     "timeYear": 6708,
     "dailyMinutesDown": {
-      "2026-02-01": 497,
+      "2026-02-01": 511,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
