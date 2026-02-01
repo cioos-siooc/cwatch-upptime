@@ -306,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-02-01": 602,
+      "2026-02-01": 624,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -695,19 +695,19 @@
     "url": "https://catalogue.ogsl.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.ogsl.ca.ico",
     "slug": "st-lawrence-global-observatory-ckan-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "91.60%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "92.36%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "92.35%",
     "uptimeMonth": "95.94%",
-    "uptimeYear": "72.54%",
+    "uptimeYear": "72.55%",
     "time": 2999,
-    "timeDay": 90,
-    "timeWeek": 179,
-    "timeMonth": 2474,
-    "timeYear": 3114,
+    "timeDay": 83,
+    "timeWeek": 170,
+    "timeMonth": 2454,
+    "timeYear": 3112,
     "dailyMinutesDown": {
-      "2026-02-01": 18,
+      "2026-02-01": 20,
       "2026-01-29": 732,
       "2026-01-27": 20,
       "2026-01-23": 51,
@@ -847,7 +847,7 @@
       "2025-07-10": 657,
       "2025-07-09": 1226,
       "2025-07-08": 840,
-      "2025-07-07": 108
+      "2025-07-07": 81
     }
   },
   {
@@ -1148,9 +1148,9 @@
     "slug": "cioos-pacific-ckan",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "30.06%",
-    "uptimeWeek": "53.05%",
-    "uptimeMonth": "86.56%",
+    "uptimeDay": "32.01%",
+    "uptimeWeek": "53.11%",
+    "uptimeMonth": "86.50%",
     "uptimeYear": "98.88%",
     "time": 7367,
     "timeDay": 3428,
@@ -1158,7 +1158,7 @@
     "timeMonth": 8366,
     "timeYear": 7594,
     "dailyMinutesDown": {
-      "2026-02-01": 283,
+      "2026-02-01": 277,
       "2026-01-31": 1241,
       "2026-01-30": 925,
       "2026-01-29": 707,
@@ -1168,7 +1168,7 @@
       "2026-01-25": 661,
       "2026-01-24": 314,
       "2026-01-23": 292,
-      "2026-01-22": 126
+      "2026-01-22": 158
     }
   },
   {
@@ -1177,10 +1177,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan-sitemap",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "30.65%",
-    "uptimeWeek": "61.85%",
-    "uptimeMonth": "88.06%",
+    "uptime": "99.69%",
+    "uptimeDay": "32.60%",
+    "uptimeWeek": "61.91%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "99.00%",
     "time": 6751,
     "timeDay": 2733,
@@ -1188,7 +1188,7 @@
     "timeMonth": 7319,
     "timeYear": 6961,
     "dailyMinutesDown": {
-      "2026-02-01": 301,
+      "2026-02-01": 295,
       "2026-01-31": 1135,
       "2026-01-30": 683,
       "2026-01-29": 462,
@@ -1203,7 +1203,7 @@
       "2026-01-20": 221,
       "2026-01-19": 114,
       "2026-01-18": 16,
-      "2026-01-17": 52
+      "2026-01-17": 102
     }
   },
   {
@@ -1316,15 +1316,15 @@
     "uptime": "93.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.66%",
-    "uptimeYear": "82.08%",
+    "uptimeMonth": "48.61%",
+    "uptimeYear": "82.07%",
     "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 448,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-02-01": 604,
+      "2026-02-01": 626,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1477,7 +1477,7 @@
     "timeMonth": 7818,
     "timeYear": 6708,
     "dailyMinutesDown": {
-      "2026-02-01": 604,
+      "2026-02-01": 626,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
