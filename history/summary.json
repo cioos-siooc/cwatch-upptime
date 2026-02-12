@@ -50,8 +50,7 @@
       "2025-03-02": 27,
       "2025-02-28": 54,
       "2025-02-25": 20,
-      "2025-02-14": 32,
-      "2025-02-12": 27
+      "2025-02-14": 32
     }
   },
   {
@@ -306,7 +305,8 @@
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-02-11": 1425,
+      "2026-02-12": 5,
+      "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -971,7 +971,7 @@
     "time": 235,
     "timeDay": 159,
     "timeWeek": 168,
-    "timeMonth": 189,
+    "timeMonth": 187,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2026-02-11": 90,
@@ -1231,7 +1231,7 @@
     "slug": "cioos-pacific-erddap",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "26.72%",
+    "uptimeDay": "28.07%",
     "uptimeWeek": "22.85%",
     "uptimeMonth": "79.95%",
     "uptimeYear": "97.87%",
@@ -1342,7 +1342,7 @@
     "uptime": "92.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.91%",
+    "uptimeMonth": "13.87%",
     "uptimeYear": "79.18%",
     "time": 487,
     "timeDay": 0,
@@ -1350,7 +1350,8 @@
     "timeMonth": 443,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2026-02-11": 1427,
+      "2026-02-12": 7,
+      "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -1473,17 +1474,18 @@
     "slug": "cioos-data-explorer-api",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.85%",
     "time": 343,
     "timeDay": 3825,
     "timeWeek": 1519,
     "timeMonth": 2048,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-02-11": 92,
+      "2026-02-12": 7,
+      "2026-02-11": 105,
       "2026-01-27": 15,
       "2026-01-18": 676,
       "2026-01-04": 18,
@@ -1507,14 +1509,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.44%",
+    "uptimeYear": "11.43%",
     "time": 6365,
     "timeDay": 0,
     "timeWeek": 3450,
     "timeMonth": 8247,
     "timeYear": 6780,
     "dailyMinutesDown": {
-      "2026-02-11": 1427,
+      "2026-02-12": 7,
+      "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -1847,8 +1850,7 @@
       "2025-03-07": 23,
       "2025-02-25": 17,
       "2025-02-24": 37,
-      "2025-02-20": 23,
-      "2025-02-12": 41
+      "2025-02-20": 23
     }
   },
   {
@@ -1858,7 +1860,7 @@
     "slug": "cioos-pacific-erddap-dataset-eccc-msc-buoys",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "24.65%",
+    "uptimeDay": "26.00%",
     "uptimeWeek": "22.58%",
     "uptimeMonth": "80.55%",
     "uptimeYear": "98.21%",
