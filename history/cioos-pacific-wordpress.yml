@@ -1,7 +1,7 @@
 url: https://cioospacific.ca
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2026-03-24T01:23:32.907Z
+status: down
+code: 415
+responseTime: 120
+lastUpdated: 2026-03-24T07:29:35.588Z
 startTime: 2022-03-10T21:37:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
