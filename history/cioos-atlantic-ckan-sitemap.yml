@@ -1,7 +1,7 @@
 url: https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml
-status: up
+status: degraded
 code: 200
-responseTime: 2138
-lastUpdated: 2026-06-23T08:40:28.125Z
+responseTime: 6650
+lastUpdated: 2026-06-23T11:12:32.494Z
 startTime: 2022-10-27T20:32:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
