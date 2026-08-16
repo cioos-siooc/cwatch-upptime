@@ -1,7 +1,7 @@
 url: https://cioosatlantic.ca/erddap/index.html
-status: degraded
+status: down
 code: 503
-responseTime: 8427
-lastUpdated: 2026-08-16T06:15:58.902Z
+responseTime: 1251
+lastUpdated: 2026-08-16T06:30:52.701Z
 startTime: 2022-03-10T21:49:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
