@@ -1,7 +1,7 @@
 url: https://cioosatlantic.ca/
-status: down
-code: 523
-responseTime: 2351
-lastUpdated: 2026-08-18T22:54:39.262Z
+status: degraded
+code: 522
+responseTime: 19312
+lastUpdated: 2026-08-18T23:04:29.682Z
 startTime: 2022-03-10T21:49:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
