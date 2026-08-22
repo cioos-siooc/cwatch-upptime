@@ -269,16 +269,16 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "82.51%",
+    "uptimeDay": "81.64%",
     "uptimeWeek": "73.10%",
-    "uptimeMonth": "93.70%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 3005,
-    "timeDay": 4582,
-    "timeWeek": 4708,
-    "timeMonth": 4396,
+    "timeDay": 4527,
+    "timeWeek": 4713,
+    "timeMonth": 4392,
     "timeYear": 3133,
     "dailyMinutesDown": {
       "2026-08-14": 49,
@@ -289,7 +289,7 @@
       "2026-08-19": 929,
       "2026-08-20": 311,
       "2026-08-21": 219,
-      "2026-08-22": 53
+      "2026-08-22": 65
     }
   },
   {
@@ -336,7 +336,7 @@
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-11-05": 8,
-      "2026-08-22": 229,
+      "2026-08-22": 244,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -595,10 +595,10 @@
     "slug": "cioos-atlantic-ckan-sitemap",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "78.01%",
-    "uptimeWeek": "72.11%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "76.95%",
+    "uptimeWeek": "71.96%",
+    "uptimeMonth": "93.55%",
+    "uptimeYear": "99.46%",
     "time": 2744,
     "timeDay": 5102,
     "timeWeek": 5285,
@@ -612,7 +612,7 @@
       "2026-08-19": 990,
       "2026-08-20": 236,
       "2026-08-21": 315,
-      "2026-08-22": 2
+      "2026-08-22": 18
     }
   },
   {
@@ -623,7 +623,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.06%",
+    "uptimeWeek": "37.22%",
     "uptimeMonth": "84.36%",
     "uptimeYear": "95.75%",
     "time": 455,
@@ -932,7 +932,7 @@
       "2026-02-23": 824,
       "2026-02-22": 848,
       "2026-03-18": 236,
-      "2026-08-22": 229,
+      "2026-08-22": 245,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1357,14 +1357,14 @@
     "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "18.44%",
-    "uptimeWeek": "41.03%",
-    "uptimeMonth": "86.43%",
+    "uptimeWeek": "40.88%",
+    "uptimeMonth": "86.40%",
     "uptimeYear": "98.87%",
     "time": 7169,
     "timeDay": 4714,
-    "timeWeek": 5557,
+    "timeWeek": 5563,
     "timeMonth": 5603,
-    "timeYear": 7211,
+    "timeYear": 7212,
     "dailyMinutesDown": {
       "2026-08-15": 52,
       "2026-08-16": 640,
@@ -1373,7 +1373,7 @@
       "2026-08-19": 967,
       "2026-08-20": 1211,
       "2026-08-21": 1173,
-      "2026-08-22": 230
+      "2026-08-22": 245
     }
   },
   {
@@ -1389,9 +1389,9 @@
     "uptimeYear": "48.57%",
     "time": 6424,
     "timeDay": 5103,
-    "timeWeek": 5017,
+    "timeWeek": 5021,
     "timeMonth": 4801,
-    "timeYear": 6535,
+    "timeYear": 6536,
     "dailyMinutesDown": {
       "2026-01-29": 21,
       "2026-01-30": 683,
@@ -1410,7 +1410,7 @@
       "2026-02-17": 349,
       "2026-02-18": 55,
       "2026-02-19": 1147,
-      "2026-08-22": 230,
+      "2026-08-22": 246,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1722,7 +1722,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.pac-dev1.cioos.org.ico",
     "slug": "cioos-pacific-dev-ckan",
     "status": "down",
-    "uptime": "82.02%",
+    "uptime": "82.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1753,7 +1753,7 @@
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
-      "2026-08-22": 231,
+      "2026-08-22": 247,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2069,7 +2069,7 @@
     "timeMonth": 3312,
     "timeYear": 6814,
     "dailyMinutesDown": {
-      "2026-08-22": 231,
+      "2026-08-22": 247,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2442,10 +2442,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.cioospacific.ca.ico",
     "slug": "cioos-pacific-erddap-dataset-eccc-msc-buoys",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "66.25%",
-    "uptimeWeek": "92.19%",
-    "uptimeMonth": "93.85%",
+    "uptime": "99.27%",
+    "uptimeDay": "65.16%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "97.39%",
     "time": 2083,
     "timeDay": 0,
@@ -2518,7 +2518,7 @@
       "2026-08-08": 405,
       "2026-08-21": 328,
       "2026-08-20": 228,
-      "2026-08-22": 231
+      "2026-08-22": 247
     }
   },
   {
