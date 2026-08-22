@@ -278,7 +278,7 @@
     "uptimeYear": "99.49%",
     "time": 3028,
     "timeDay": 5064,
-    "timeWeek": 4784,
+    "timeWeek": 4805,
     "timeMonth": 4479,
     "timeYear": 3166,
     "dailyMinutesDown": {
@@ -335,7 +335,7 @@
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-11-05": 8,
-      "2026-08-22": 1303,
+      "2026-08-22": 1312,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -592,16 +592,16 @@
     "url": "https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan-sitemap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "73.16%",
-    "uptimeWeek": "71.73%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "72.89%",
+    "uptimeWeek": "71.66%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 2816,
-    "timeDay": 4827,
-    "timeWeek": 5314,
-    "timeMonth": 4677,
+    "timeDay": 4739,
+    "timeWeek": 5308,
+    "timeMonth": 4675,
     "timeYear": 2986,
     "dailyMinutesDown": {
       "2026-08-16": 212,
@@ -610,7 +610,7 @@
       "2026-08-19": 990,
       "2026-08-20": 236,
       "2026-08-21": 315,
-      "2026-08-22": 355
+      "2026-08-22": 362
     }
   },
   {
@@ -621,7 +621,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "47.72%",
+    "uptimeWeek": "47.81%",
     "uptimeMonth": "84.36%",
     "uptimeYear": "95.75%",
     "time": 455,
@@ -930,7 +930,7 @@
       "2026-02-23": 824,
       "2026-02-22": 848,
       "2026-03-18": 236,
-      "2026-08-22": 1303,
+      "2026-08-22": 1312,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1086,7 +1086,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.99%",
+    "uptimeYear": "86.00%",
     "time": 662,
     "timeDay": 0,
     "timeWeek": 113,
@@ -1355,12 +1355,12 @@
     "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "0.86%",
-    "uptimeWeek": "30.38%",
-    "uptimeMonth": "83.98%",
+    "uptimeWeek": "30.31%",
+    "uptimeMonth": "83.96%",
     "uptimeYear": "98.66%",
     "time": 7169,
     "timeDay": 152,
-    "timeWeek": 5569,
+    "timeWeek": 5565,
     "timeMonth": 5615,
     "timeYear": 7211,
     "dailyMinutesDown": {
@@ -1371,7 +1371,7 @@
       "2026-08-19": 967,
       "2026-08-20": 1211,
       "2026-08-21": 1173,
-      "2026-08-22": 1304
+      "2026-08-22": 1313
     }
   },
   {
@@ -1387,7 +1387,7 @@
     "uptimeYear": "48.37%",
     "time": 6424,
     "timeDay": 122,
-    "timeWeek": 5069,
+    "timeWeek": 5054,
     "timeMonth": 4780,
     "timeYear": 6532,
     "dailyMinutesDown": {
@@ -1408,7 +1408,7 @@
       "2026-02-17": 349,
       "2026-02-18": 55,
       "2026-02-19": 1147,
-      "2026-08-22": 1304,
+      "2026-08-22": 1313,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1601,7 +1601,7 @@
     "slug": "cioos-pacific-erddap",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "94.02%",
+    "uptimeDay": "94.63%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "97.52%",
@@ -1751,7 +1751,7 @@
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
-      "2026-08-22": 1305,
+      "2026-08-22": 1314,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2067,7 +2067,7 @@
     "timeMonth": 3312,
     "timeYear": 6814,
     "dailyMinutesDown": {
-      "2026-08-22": 1305,
+      "2026-08-22": 1314,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2442,8 +2442,8 @@
     "status": "down",
     "uptime": "99.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.54%",
-    "uptimeMonth": "91.39%",
+    "uptimeWeek": "81.45%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "97.18%",
     "time": 2083,
     "timeDay": 0,
@@ -2516,7 +2516,7 @@
       "2026-08-08": 405,
       "2026-08-21": 328,
       "2026-08-20": 228,
-      "2026-08-22": 1305
+      "2026-08-22": 1314
     }
   },
   {
