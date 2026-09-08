@@ -1,7 +1,7 @@
 url: https://catalogue.cioospacific.ca
-status: up
-code: 200
-responseTime: 4420
-lastUpdated: 2026-09-08T18:59:58.265Z
+status: down
+code: 502
+responseTime: 246
+lastUpdated: 2026-09-08T19:16:53.358Z
 startTime: 2022-03-10T21:37:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
