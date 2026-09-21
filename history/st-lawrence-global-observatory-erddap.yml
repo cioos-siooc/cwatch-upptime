@@ -1,7 +1,7 @@
 url: https://erddap.ogsl.ca/erddap/index.html
-status: down
-code: 521
-responseTime: 265
-lastUpdated: 2026-09-21T20:00:42.900Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2026-09-21T20:19:26.302Z
 startTime: 2023-03-14T16:25:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
