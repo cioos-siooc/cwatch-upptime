@@ -264,9 +264,9 @@
     "slug": "cioos-atlantic-ckan",
     "status": "degraded",
     "uptime": "99.94%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "96.76%",
+    "uptimeDay": "89.44%",
+    "uptimeWeek": "86.77%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "99.73%",
     "time": 3281,
     "timeDay": 3629,
@@ -282,7 +282,7 @@
       "2026-10-15": 276,
       "2026-10-16": 180,
       "2026-10-17": 143,
-      "2026-10-18": 78
+      "2026-10-18": 84
     }
   },
   {
@@ -303,7 +303,7 @@
     "timeYear": 590,
     "dailyMinutesDown": {
       "2025-11-05": 8,
-      "2026-10-18": 823,
+      "2026-10-18": 829,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -617,16 +617,16 @@
     "url": "https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioosatlantic.ca.ico",
     "slug": "cioos-atlantic-ckan-sitemap",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "87.81%",
-    "uptimeMonth": "96.33%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "87.77%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.69%",
-    "time": 3114,
-    "timeDay": 3483,
-    "timeWeek": 3690,
-    "timeMonth": 2805,
+    "time": 3115,
+    "timeDay": 3531,
+    "timeWeek": 3696,
+    "timeMonth": 2809,
     "timeYear": 3221,
     "dailyMinutesDown": {
       "2026-10-07": 9,
@@ -640,7 +640,7 @@
       "2026-10-15": 198,
       "2026-10-16": 231,
       "2026-10-17": 139,
-      "2026-10-18": 105
+      "2026-10-18": 109
     }
   },
   {
@@ -752,7 +752,7 @@
     "timeDay": 443,
     "timeWeek": 301,
     "timeMonth": 241,
-    "timeYear": 3135,
+    "timeYear": 3137,
     "dailyMinutesDown": {
       "2026-06-16": 226,
       "2026-06-24": 72,
@@ -800,7 +800,7 @@
     "timeDay": 163,
     "timeWeek": 147,
     "timeMonth": 148,
-    "timeYear": 3088,
+    "timeYear": 3075,
     "dailyMinutesDown": {
       "2025-10-25": 68,
       "2025-10-24": 1440,
@@ -849,7 +849,7 @@
       "2026-02-23": 824,
       "2026-02-22": 848,
       "2026-03-18": 236,
-      "2026-10-18": 823,
+      "2026-10-18": 829,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -1283,9 +1283,9 @@
     "slug": "cioos-pacific-ckan",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "89.66%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "89.65%",
     "uptimeYear": "98.12%",
     "time": 6276,
     "timeDay": 194,
@@ -1317,7 +1317,7 @@
       "2026-10-09": 41,
       "2026-10-15": 11,
       "2026-10-17": 40,
-      "2026-10-18": 124
+      "2026-10-18": 130
     }
   },
   {
@@ -1353,7 +1353,7 @@
       "2026-02-17": 349,
       "2026-02-18": 55,
       "2026-02-19": 1147,
-      "2026-10-18": 824,
+      "2026-10-18": 830,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -1759,7 +1759,7 @@
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
-      "2026-10-18": 825,
+      "2026-10-18": 831,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -2122,7 +2122,7 @@
     "uptime": "55.19%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "33.16%",
+    "uptimeMonth": "33.17%",
     "uptimeYear": "2.65%",
     "time": 6462,
     "timeDay": 591,
@@ -2497,7 +2497,7 @@
     "uptime": "97.27%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "66.27%",
+    "uptimeMonth": "66.28%",
     "uptimeYear": "89.73%",
     "time": 2060,
     "timeDay": 556,
