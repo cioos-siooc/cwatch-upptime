@@ -1,7 +1,7 @@
 url: https://erddap.amundsenscience.com/erddap
-status: degraded
+status: up
 code: 200
-responseTime: 20313
-lastUpdated: 2026-10-22T12:01:20.543Z
+responseTime: 685
+lastUpdated: 2026-10-22T12:08:20.202Z
 startTime: 2025-12-16T21:56:45.602Z
 generator: Upptime <https://github.com/upptime/upptime>
