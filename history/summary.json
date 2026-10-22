@@ -65,7 +65,7 @@
     "time": 4732,
     "timeDay": 408,
     "timeWeek": 385,
-    "timeMonth": 1137,
+    "timeMonth": 346,
     "timeYear": 4585,
     "dailyMinutesDown": {
       "2026-01-18": 1089,
@@ -264,12 +264,12 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.28%",
+    "uptimeWeek": "94.37%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.73%",
     "time": 3291,
     "timeDay": 436,
-    "timeWeek": 3672,
+    "timeWeek": 3645,
     "timeMonth": 3058,
     "timeYear": 3357,
     "dailyMinutesDown": {
@@ -302,7 +302,7 @@
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-11-05": 8,
-      "2026-10-22": 1359,
+      "2026-10-22": 1374,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -708,8 +708,8 @@
     "status": "down",
     "uptime": "95.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.52%",
-    "uptimeMonth": "96.21%",
+    "uptimeWeek": "83.38%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "99.14%",
     "time": 1011,
     "timeDay": 128,
@@ -734,7 +734,7 @@
       "2026-05-25": 37,
       "2026-09-19": 7,
       "2026-09-21": 19,
-      "2026-10-22": 1360,
+      "2026-10-22": 1375,
       "2026-10-21": 301
     }
   },
@@ -846,7 +846,7 @@
       "2026-02-23": 824,
       "2026-02-22": 848,
       "2026-03-18": 236,
-      "2026-10-22": 1360,
+      "2026-10-22": 1375,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1281,16 +1281,16 @@
     "url": "https://catalogue.cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "79.34%",
-    "uptimeMonth": "89.39%",
-    "uptimeYear": "97.79%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "79.32%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "97.78%",
     "time": 6253,
-    "timeDay": 3806,
-    "timeWeek": 3627,
-    "timeMonth": 2668,
+    "timeDay": 3923,
+    "timeWeek": 3656,
+    "timeMonth": 2692,
     "timeYear": 6236,
     "dailyMinutesDown": {
       "2026-09-10": 207,
@@ -1321,7 +1321,7 @@
       "2026-10-18": 740,
       "2026-10-20": 145,
       "2026-10-21": 8,
-      "2026-10-22": 72
+      "2026-10-22": 74
     }
   },
   {
@@ -1357,7 +1357,7 @@
       "2026-02-17": 349,
       "2026-02-18": 55,
       "2026-02-19": 1147,
-      "2026-10-22": 1361,
+      "2026-10-22": 1376,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1745,7 +1745,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.39%",
+    "uptimeYear": "19.38%",
     "time": 475,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1769,7 +1769,7 @@
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
-      "2026-10-22": 1362,
+      "2026-10-22": 1376,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -2136,7 +2136,7 @@
     "uptime": "55.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "47.54%",
+    "uptimeMonth": "47.57%",
     "uptimeYear": "3.85%",
     "time": 6410,
     "timeDay": 195,
@@ -2505,8 +2505,8 @@
     "slug": "cioos-pacific-erddap-dataset-eccc-msc-buoys",
     "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.56%",
+    "uptimeDay": "90.10%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "80.35%",
     "uptimeYear": "89.71%",
     "time": 2043,
@@ -2611,7 +2611,7 @@
       "2026-09-14": 307,
       "2026-10-10": 13,
       "2026-10-18": 17,
-      "2026-10-22": 128
+      "2026-10-22": 143
     }
   },
   {
@@ -2671,9 +2671,9 @@
     "slug": "amundsen-science-erddap",
     "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "52.90%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "96.34%",
+    "uptimeDay": "51.89%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "96.31%",
     "uptimeYear": "98.12%",
     "time": 501,
     "timeDay": 7187,
@@ -2693,7 +2693,7 @@
       "2026-10-05": 66,
       "2026-10-11": 366,
       "2026-10-12": 493,
-      "2026-10-22": 678
+      "2026-10-22": 693
     }
   }
 ]
