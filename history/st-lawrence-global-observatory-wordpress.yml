@@ -1,7 +1,7 @@
 url: https://ogsl.ca/en/home-slgo/
-status: down
-code: 404
-responseTime: 393
-lastUpdated: 2026-11-27T02:50:35.123Z
+status: degraded
+code: 522
+responseTime: 19304
+lastUpdated: 2026-11-27T02:57:36.958Z
 startTime: 2022-03-10T21:49:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
